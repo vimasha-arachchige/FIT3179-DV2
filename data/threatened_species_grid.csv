@@ -1,0 +1,3925 @@
+latitude,longitude,status,occurrence_count
+-44.75,141.75,Vulnerable,1
+-44.75,142.25,Vulnerable,1
+-44.75,148.75,Endangered,1
+-44.75,148.75,Vulnerable,1
+-44.75,149.25,Endangered,2
+-44.75,149.25,Vulnerable,1
+-44.25,144.75,Endangered,2
+-44.25,144.75,Vulnerable,2
+-44.25,145.75,Endangered,1
+-44.25,148.25,Vulnerable,1
+-44.25,148.75,Endangered,1
+-44.25,148.75,Vulnerable,1
+-44.25,152.25,Endangered,1
+-44.25,152.25,Vulnerable,1
+-43.75,143.75,Endangered,10
+-43.75,143.75,Vulnerable,3
+-43.75,144.25,Endangered,20
+-43.75,144.25,Vulnerable,20
+-43.75,144.75,Endangered,11
+-43.75,144.75,Vulnerable,6
+-43.75,145.25,Endangered,21
+-43.75,145.25,Vulnerable,27
+-43.75,145.75,Endangered,88
+-43.75,145.75,Vulnerable,82
+-43.75,146.25,Critically Endangered,1
+-43.75,146.25,Endangered,113
+-43.75,146.25,Vulnerable,98
+-43.75,146.75,Critically Endangered,5
+-43.75,146.75,Endangered,97
+-43.75,146.75,Vulnerable,101
+-43.75,147.25,Endangered,42
+-43.75,147.25,Vulnerable,37
+-43.75,147.75,Endangered,1
+-43.75,147.75,Vulnerable,3
+-43.75,148.25,Endangered,1
+-43.75,148.25,Vulnerable,3
+-43.75,149.25,Endangered,4
+-43.75,149.25,Vulnerable,4
+-43.75,149.75,Endangered,2
+-43.75,149.75,Vulnerable,4
+-43.75,151.75,Endangered,2
+-43.75,152.25,Endangered,2
+-43.25,142.75,Endangered,1
+-43.25,143.25,Endangered,8
+-43.25,143.25,Vulnerable,9
+-43.25,143.75,Endangered,1
+-43.25,143.75,Vulnerable,4
+-43.25,144.25,Endangered,12
+-43.25,144.25,Vulnerable,16
+-43.25,144.75,Endangered,59
+-43.25,144.75,Vulnerable,51
+-43.25,145.25,Endangered,68
+-43.25,145.25,Vulnerable,56
+-43.25,145.75,Critically Endangered,1
+-43.25,145.75,Endangered,21
+-43.25,145.75,Vulnerable,48
+-43.25,146.25,Critically Endangered,71
+-43.25,146.25,Endangered,9
+-43.25,146.25,Vulnerable,53
+-43.25,146.75,Critically Endangered,132
+-43.25,146.75,Endangered,56
+-43.25,146.75,Vulnerable,64
+-43.25,147.25,Critically Endangered,1820
+-43.25,147.25,Endangered,2471
+-43.25,147.25,Vulnerable,1259
+-43.25,147.75,Critically Endangered,227
+-43.25,147.75,Endangered,407
+-43.25,147.75,Vulnerable,390
+-43.25,148.25,Critically Endangered,1
+-43.25,148.25,Endangered,4455
+-43.25,148.25,Vulnerable,14950
+-43.25,150.25,Endangered,1
+-42.75,144.25,Endangered,7
+-42.75,144.25,Vulnerable,2
+-42.75,144.75,Endangered,26
+-42.75,144.75,Vulnerable,12
+-42.75,145.25,Endangered,25
+-42.75,145.25,Vulnerable,15
+-42.75,145.75,Endangered,3
+-42.75,145.75,Vulnerable,7
+-42.75,146.25,Critically Endangered,2
+-42.75,146.25,Endangered,10
+-42.75,146.25,Vulnerable,19
+-42.75,146.75,Critically Endangered,33
+-42.75,146.75,Endangered,114
+-42.75,146.75,Vulnerable,30
+-42.75,147.25,Critically Endangered,510
+-42.75,147.25,Endangered,508
+-42.75,147.25,Vulnerable,769
+-42.75,147.75,Critically Endangered,410
+-42.75,147.75,Endangered,689
+-42.75,147.75,Vulnerable,704
+-42.75,148.25,Critically Endangered,196
+-42.75,148.25,Endangered,543
+-42.75,148.25,Vulnerable,136
+-42.75,151.75,Endangered,4
+-42.75,151.75,Vulnerable,9
+-42.75,152.25,Endangered,2
+-42.75,152.25,Vulnerable,3
+-42.75,152.75,Endangered,8
+-42.75,152.75,Vulnerable,5
+-42.25,145.25,Critically Endangered,5
+-42.25,145.25,Endangered,26
+-42.25,145.25,Vulnerable,48
+-42.25,145.75,Critically Endangered,1
+-42.25,145.75,Endangered,4
+-42.25,145.75,Vulnerable,15
+-42.25,146.25,Critically Endangered,27
+-42.25,146.25,Endangered,60
+-42.25,146.25,Vulnerable,33
+-42.25,146.75,Critically Endangered,7
+-42.25,146.75,Endangered,143
+-42.25,146.75,Vulnerable,51
+-42.25,147.25,Critically Endangered,19
+-42.25,147.25,Endangered,64
+-42.25,147.25,Vulnerable,64
+-42.25,147.75,Critically Endangered,37
+-42.25,147.75,Endangered,50
+-42.25,147.75,Vulnerable,30
+-42.25,148.25,Critically Endangered,37
+-42.25,148.25,Endangered,129
+-42.25,148.25,Vulnerable,98
+-42.25,148.75,Endangered,2
+-42.25,148.75,Vulnerable,2
+-41.75,143.75,Endangered,1
+-41.75,143.75,Vulnerable,3
+-41.75,144.75,Endangered,13
+-41.75,144.75,Vulnerable,28
+-41.75,145.25,Endangered,76
+-41.75,145.25,Vulnerable,71
+-41.75,145.75,Critically Endangered,4
+-41.75,145.75,Endangered,124
+-41.75,145.75,Vulnerable,88
+-41.75,146.25,Critically Endangered,1
+-41.75,146.25,Endangered,62
+-41.75,146.25,Vulnerable,36
+-41.75,146.75,Critically Endangered,1
+-41.75,146.75,Endangered,329
+-41.75,146.75,Vulnerable,98
+-41.75,147.25,Critically Endangered,33
+-41.75,147.25,Endangered,66
+-41.75,147.25,Vulnerable,59
+-41.75,147.75,Critically Endangered,21
+-41.75,147.75,Endangered,54
+-41.75,147.75,Vulnerable,41
+-41.75,148.25,Critically Endangered,1
+-41.75,148.25,Endangered,122
+-41.75,148.25,Vulnerable,62
+-41.75,148.75,Endangered,3
+-41.75,148.75,Vulnerable,5
+-41.75,151.25,Endangered,1
+-41.75,151.25,Vulnerable,2
+-41.75,151.75,Endangered,1
+-41.75,151.75,Vulnerable,2
+-41.75,152.25,Endangered,1
+-41.75,152.25,Vulnerable,2
+-41.25,143.25,Vulnerable,1
+-41.25,144.25,Endangered,2
+-41.25,144.25,Vulnerable,1
+-41.25,144.75,Critically Endangered,16
+-41.25,144.75,Endangered,80
+-41.25,144.75,Vulnerable,157
+-41.25,145.25,Critically Endangered,3
+-41.25,145.25,Endangered,24
+-41.25,145.25,Vulnerable,27
+-41.25,145.75,Critically Endangered,70
+-41.25,145.75,Endangered,223
+-41.25,145.75,Vulnerable,150
+-41.25,146.25,Critically Endangered,94
+-41.25,146.25,Endangered,446
+-41.25,146.25,Vulnerable,691
+-41.25,146.75,Critically Endangered,45
+-41.25,146.75,Endangered,254
+-41.25,146.75,Vulnerable,375
+-41.25,147.25,Critically Endangered,5
+-41.25,147.25,Endangered,197
+-41.25,147.25,Vulnerable,349
+-41.25,147.75,Critically Endangered,1
+-41.25,147.75,Endangered,82
+-41.25,147.75,Vulnerable,8
+-41.25,148.25,Critically Endangered,55
+-41.25,148.25,Endangered,198
+-41.25,148.25,Vulnerable,291
+-41.25,148.75,Endangered,7
+-41.25,148.75,Vulnerable,11
+-41.25,149.25,Vulnerable,2
+-41.25,149.75,Vulnerable,8
+-41.25,150.25,Endangered,4
+-41.25,150.25,Vulnerable,3
+-41.25,150.75,Endangered,5
+-41.25,150.75,Vulnerable,5
+-41.25,151.25,Endangered,5
+-41.25,151.25,Vulnerable,7
+-41.25,151.75,Endangered,3
+-41.25,151.75,Vulnerable,9
+-41.25,152.25,Vulnerable,2
+-40.75,144.25,Endangered,6
+-40.75,144.75,Critically Endangered,32
+-40.75,144.75,Endangered,67
+-40.75,144.75,Vulnerable,174
+-40.75,145.25,Critically Endangered,88
+-40.75,145.25,Endangered,144
+-40.75,145.25,Vulnerable,503
+-40.75,145.75,Critically Endangered,30
+-40.75,145.75,Endangered,430
+-40.75,145.75,Vulnerable,329
+-40.75,146.25,Endangered,13
+-40.75,146.25,Vulnerable,10
+-40.75,146.75,Vulnerable,1
+-40.75,147.25,Critically Endangered,1
+-40.75,147.25,Endangered,6
+-40.75,147.25,Vulnerable,218
+-40.75,147.75,Critically Endangered,6
+-40.75,147.75,Endangered,125
+-40.75,147.75,Vulnerable,310
+-40.75,148.25,Critically Endangered,2
+-40.75,148.25,Endangered,120
+-40.75,148.25,Vulnerable,254
+-40.75,148.75,Endangered,22
+-40.75,148.75,Vulnerable,14
+-40.75,149.25,Endangered,3
+-40.75,149.25,Vulnerable,3
+-40.75,149.75,Endangered,6
+-40.75,149.75,Vulnerable,2
+-40.75,152.25,Vulnerable,4
+-40.25,143.75,Endangered,25
+-40.25,143.75,Vulnerable,93
+-40.25,144.25,Endangered,15
+-40.25,144.25,Vulnerable,83
+-40.25,144.75,Critically Endangered,1
+-40.25,144.75,Endangered,18
+-40.25,144.75,Vulnerable,19
+-40.25,145.75,Endangered,3
+-40.25,145.75,Vulnerable,5
+-40.25,146.75,Endangered,1
+-40.25,146.75,Vulnerable,2
+-40.25,147.25,Endangered,19
+-40.25,147.25,Vulnerable,3
+-40.25,147.75,Critically Endangered,5
+-40.25,147.75,Endangered,23
+-40.25,147.75,Vulnerable,44
+-40.25,148.25,Critically Endangered,8
+-40.25,148.25,Endangered,59
+-40.25,148.25,Vulnerable,77
+-40.25,148.75,Endangered,44
+-40.25,148.75,Vulnerable,15
+-40.25,150.75,Endangered,2
+-39.75,143.25,Vulnerable,1
+-39.75,143.75,Critically Endangered,7
+-39.75,143.75,Endangered,26
+-39.75,143.75,Vulnerable,690
+-39.75,144.25,Critically Endangered,17
+-39.75,144.25,Endangered,43
+-39.75,144.25,Vulnerable,403
+-39.75,145.25,Endangered,5
+-39.75,145.25,Vulnerable,8
+-39.75,145.75,Endangered,6
+-39.75,145.75,Vulnerable,11
+-39.75,146.25,Endangered,4
+-39.75,146.25,Vulnerable,3
+-39.75,146.75,Endangered,3
+-39.75,146.75,Vulnerable,8
+-39.75,147.25,Endangered,1
+-39.75,147.75,Critically Endangered,14
+-39.75,147.75,Endangered,11
+-39.75,147.75,Vulnerable,23
+-39.75,148.25,Endangered,8
+-39.75,148.25,Vulnerable,20
+-39.75,148.75,Endangered,24
+-39.75,148.75,Vulnerable,18
+-39.75,149.25,Vulnerable,1
+-39.25,142.25,Vulnerable,1
+-39.25,142.75,Endangered,11
+-39.25,142.75,Vulnerable,40
+-39.25,143.25,Endangered,1
+-39.25,143.75,Endangered,1
+-39.25,143.75,Vulnerable,1
+-39.25,144.25,Vulnerable,2
+-39.25,144.75,Endangered,2
+-39.25,144.75,Vulnerable,2
+-39.25,145.25,Endangered,7
+-39.25,145.25,Vulnerable,12
+-39.25,145.75,Vulnerable,1
+-39.25,146.25,Endangered,400
+-39.25,146.25,Vulnerable,204
+-39.25,146.75,Endangered,5
+-39.25,146.75,Vulnerable,3
+-39.25,147.25,Endangered,1
+-39.25,147.25,Vulnerable,6
+-39.25,147.75,Vulnerable,1
+-39.25,148.75,Vulnerable,1
+-39.25,149.25,Vulnerable,1
+-38.75,139.25,Endangered,1
+-38.75,140.25,Vulnerable,1
+-38.75,140.75,Vulnerable,2
+-38.75,141.25,Endangered,23
+-38.75,141.25,Vulnerable,40
+-38.75,141.75,Endangered,380
+-38.75,141.75,Vulnerable,809
+-38.75,142.25,Endangered,482
+-38.75,142.25,Vulnerable,1412
+-38.75,142.75,Critically Endangered,12
+-38.75,142.75,Endangered,473
+-38.75,142.75,Vulnerable,494
+-38.75,143.25,Endangered,425
+-38.75,143.25,Vulnerable,866
+-38.75,143.75,Critically Endangered,5
+-38.75,143.75,Endangered,901
+-38.75,143.75,Vulnerable,1555
+-38.75,144.25,Endangered,57
+-38.75,144.75,Endangered,13
+-38.75,144.75,Vulnerable,10
+-38.75,145.25,Critically Endangered,7
+-38.75,145.25,Endangered,329
+-38.75,145.25,Vulnerable,279
+-38.75,145.75,Critically Endangered,97
+-38.75,145.75,Endangered,249
+-38.75,145.75,Vulnerable,753
+-38.75,146.25,Critically Endangered,751
+-38.75,146.25,Endangered,667
+-38.75,146.25,Vulnerable,812
+-38.75,146.75,Critically Endangered,339
+-38.75,146.75,Endangered,193
+-38.75,146.75,Vulnerable,850
+-38.75,147.25,Endangered,15
+-38.75,147.25,Vulnerable,15
+-38.75,147.75,Endangered,1
+-38.75,148.25,Endangered,12
+-38.75,148.25,Vulnerable,6
+-38.75,148.75,Endangered,6
+-38.75,149.25,Endangered,1
+-38.75,149.25,Vulnerable,2
+-38.75,149.75,Endangered,3
+-38.75,152.25,Endangered,2
+-38.75,152.25,Vulnerable,4
+-38.25,140.25,Endangered,8
+-38.25,140.25,Vulnerable,15
+-38.25,140.75,Critically Endangered,123
+-38.25,140.75,Endangered,950
+-38.25,140.75,Vulnerable,2687
+-38.25,141.25,Critically Endangered,148
+-38.25,141.25,Endangered,481
+-38.25,141.25,Vulnerable,440
+-38.25,141.75,Critically Endangered,1
+-38.25,141.75,Endangered,775
+-38.25,141.75,Vulnerable,593
+-38.25,142.25,Critically Endangered,95
+-38.25,142.25,Endangered,1564
+-38.25,142.25,Vulnerable,2033
+-38.25,142.75,Critically Endangered,70
+-38.25,142.75,Endangered,380
+-38.25,142.75,Vulnerable,342
+-38.25,143.25,Critically Endangered,21
+-38.25,143.25,Endangered,434
+-38.25,143.25,Vulnerable,718
+-38.25,143.75,Critically Endangered,105
+-38.25,143.75,Endangered,410
+-38.25,143.75,Vulnerable,2936
+-38.25,144.25,Critically Endangered,1210
+-38.25,144.25,Endangered,4197
+-38.25,144.25,Vulnerable,6629
+-38.25,144.75,Critically Endangered,2920
+-38.25,144.75,Endangered,3800
+-38.25,144.75,Vulnerable,8016
+-38.25,145.25,Critically Endangered,1208
+-38.25,145.25,Endangered,1732
+-38.25,145.25,Vulnerable,4367
+-38.25,145.75,Critically Endangered,700
+-38.25,145.75,Endangered,383
+-38.25,145.75,Vulnerable,2177
+-38.25,146.25,Critically Endangered,69
+-38.25,146.25,Endangered,735
+-38.25,146.25,Vulnerable,311
+-38.25,146.75,Critically Endangered,2
+-38.25,146.75,Endangered,727
+-38.25,146.75,Vulnerable,744
+-38.25,147.25,Critically Endangered,9
+-38.25,147.25,Endangered,144
+-38.25,147.25,Vulnerable,802
+-38.25,147.75,Critically Endangered,2
+-38.25,147.75,Endangered,15
+-38.25,147.75,Vulnerable,265
+-38.25,148.25,Endangered,6
+-38.25,148.25,Vulnerable,5
+-38.25,148.75,Endangered,108
+-38.25,148.75,Vulnerable,371
+-38.25,149.25,Endangered,16
+-38.25,149.25,Vulnerable,15
+-38.25,149.75,Endangered,14
+-38.25,149.75,Vulnerable,5
+-38.25,150.25,Endangered,1
+-38.25,150.25,Vulnerable,2
+-38.25,152.25,Vulnerable,2
+-37.75,139.75,Endangered,3
+-37.75,139.75,Vulnerable,7
+-37.75,140.25,Critically Endangered,5
+-37.75,140.25,Endangered,32
+-37.75,140.25,Vulnerable,346
+-37.75,140.75,Critically Endangered,250
+-37.75,140.75,Endangered,1806
+-37.75,140.75,Vulnerable,380
+-37.75,141.25,Critically Endangered,1
+-37.75,141.25,Endangered,1046
+-37.75,141.25,Vulnerable,389
+-37.75,141.75,Endangered,48
+-37.75,141.75,Vulnerable,51
+-37.75,142.25,Critically Endangered,5
+-37.75,142.25,Endangered,701
+-37.75,142.25,Vulnerable,375
+-37.75,142.75,Critically Endangered,18
+-37.75,142.75,Endangered,98
+-37.75,142.75,Vulnerable,730
+-37.75,143.25,Critically Endangered,53
+-37.75,143.25,Endangered,37
+-37.75,143.25,Vulnerable,400
+-37.75,143.75,Critically Endangered,27
+-37.75,143.75,Endangered,77
+-37.75,143.75,Vulnerable,1424
+-37.75,144.25,Critically Endangered,73
+-37.75,144.25,Endangered,260
+-37.75,144.25,Vulnerable,509
+-37.75,144.75,Critically Endangered,4285
+-37.75,144.75,Endangered,5146
+-37.75,144.75,Vulnerable,9653
+-37.75,145.25,Critically Endangered,911
+-37.75,145.25,Endangered,9919
+-37.75,145.25,Vulnerable,4199
+-37.75,145.75,Critically Endangered,537
+-37.75,145.75,Endangered,4122
+-37.75,145.75,Vulnerable,1348
+-37.75,146.25,Critically Endangered,555
+-37.75,146.25,Endangered,832
+-37.75,146.25,Vulnerable,288
+-37.75,146.75,Critically Endangered,13
+-37.75,146.75,Endangered,83
+-37.75,146.75,Vulnerable,166
+-37.75,147.25,Critically Endangered,6
+-37.75,147.25,Endangered,263
+-37.75,147.25,Vulnerable,208
+-37.75,147.75,Critically Endangered,198
+-37.75,147.75,Endangered,1028
+-37.75,147.75,Vulnerable,1437
+-37.75,148.25,Critically Endangered,5
+-37.75,148.25,Endangered,255
+-37.75,148.25,Vulnerable,1087
+-37.75,148.75,Critically Endangered,52
+-37.75,148.75,Endangered,807
+-37.75,148.75,Vulnerable,575
+-37.75,149.25,Endangered,369
+-37.75,149.25,Vulnerable,205
+-37.75,149.75,Critically Endangered,458
+-37.75,149.75,Endangered,549
+-37.75,149.75,Vulnerable,1301
+-37.75,150.25,Endangered,232
+-37.75,150.25,Vulnerable,509
+-37.75,152.25,Endangered,2
+-37.75,152.75,Endangered,1
+-37.75,152.75,Vulnerable,2
+-37.75,153.25,Endangered,1
+-37.75,153.25,Vulnerable,2
+-37.75,153.75,Vulnerable,2
+-37.25,138.75,Endangered,1
+-37.25,139.75,Critically Endangered,1
+-37.25,139.75,Endangered,290
+-37.25,139.75,Vulnerable,527
+-37.25,140.25,Critically Endangered,1
+-37.25,140.25,Endangered,19
+-37.25,140.25,Vulnerable,52
+-37.25,140.75,Critically Endangered,33
+-37.25,140.75,Endangered,6072
+-37.25,140.75,Vulnerable,243
+-37.25,141.25,Endangered,1468
+-37.25,141.25,Vulnerable,320
+-37.25,141.75,Endangered,55
+-37.25,141.75,Vulnerable,80
+-37.25,142.25,Critically Endangered,81
+-37.25,142.25,Endangered,1183
+-37.25,142.25,Vulnerable,805
+-37.25,142.75,Critically Endangered,342
+-37.25,142.75,Endangered,829
+-37.25,142.75,Vulnerable,794
+-37.25,143.25,Critically Endangered,5
+-37.25,143.25,Endangered,12
+-37.25,143.25,Vulnerable,326
+-37.25,143.75,Critically Endangered,106
+-37.25,143.75,Endangered,15
+-37.25,143.75,Vulnerable,429
+-37.25,144.25,Critically Endangered,136
+-37.25,144.25,Endangered,2135
+-37.25,144.25,Vulnerable,1160
+-37.25,144.75,Critically Endangered,4
+-37.25,144.75,Endangered,193
+-37.25,144.75,Vulnerable,373
+-37.25,145.25,Critically Endangered,12
+-37.25,145.25,Endangered,1827
+-37.25,145.25,Vulnerable,152
+-37.25,145.75,Critically Endangered,185
+-37.25,145.75,Endangered,1227
+-37.25,145.75,Vulnerable,210
+-37.25,146.25,Critically Endangered,7
+-37.25,146.25,Endangered,583
+-37.25,146.25,Vulnerable,224
+-37.25,146.75,Critically Endangered,28
+-37.25,146.75,Endangered,636
+-37.25,146.75,Vulnerable,409
+-37.25,147.25,Critically Endangered,224
+-37.25,147.25,Endangered,185
+-37.25,147.25,Vulnerable,64
+-37.25,147.75,Critically Endangered,25
+-37.25,147.75,Endangered,402
+-37.25,147.75,Vulnerable,134
+-37.25,148.25,Critically Endangered,8
+-37.25,148.25,Endangered,1097
+-37.25,148.25,Vulnerable,620
+-37.25,148.75,Critically Endangered,61
+-37.25,148.75,Endangered,1161
+-37.25,148.75,Vulnerable,222
+-37.25,149.25,Critically Endangered,89
+-37.25,149.25,Endangered,1534
+-37.25,149.25,Vulnerable,298
+-37.25,149.75,Critically Endangered,154
+-37.25,149.75,Endangered,871
+-37.25,149.75,Vulnerable,1112
+-37.25,150.25,Critically Endangered,1
+-37.25,150.25,Endangered,869
+-37.25,150.25,Vulnerable,1635
+-37.25,151.25,Endangered,2
+-37.25,151.25,Vulnerable,8
+-37.25,151.75,Vulnerable,1
+-36.75,135.75,Endangered,1
+-36.75,136.75,Endangered,1
+-36.75,137.25,Endangered,111
+-36.75,137.75,Endangered,83
+-36.75,138.25,Endangered,70
+-36.75,139.75,Critically Endangered,2
+-36.75,139.75,Endangered,15
+-36.75,139.75,Vulnerable,152
+-36.75,140.25,Critically Endangered,2
+-36.75,140.25,Endangered,38
+-36.75,140.25,Vulnerable,192
+-36.75,140.75,Critically Endangered,1
+-36.75,140.75,Endangered,162
+-36.75,140.75,Vulnerable,221
+-36.75,141.25,Critically Endangered,2
+-36.75,141.25,Endangered,130
+-36.75,141.25,Vulnerable,254
+-36.75,141.75,Critically Endangered,10
+-36.75,141.75,Endangered,1226
+-36.75,141.75,Vulnerable,1090
+-36.75,142.25,Critically Endangered,24
+-36.75,142.25,Endangered,215
+-36.75,142.25,Vulnerable,561
+-36.75,142.75,Critically Endangered,27
+-36.75,142.75,Endangered,58
+-36.75,142.75,Vulnerable,263
+-36.75,143.25,Critically Endangered,79
+-36.75,143.25,Endangered,20
+-36.75,143.25,Vulnerable,535
+-36.75,143.75,Critically Endangered,145
+-36.75,143.75,Endangered,405
+-36.75,143.75,Vulnerable,479
+-36.75,144.25,Critically Endangered,235
+-36.75,144.25,Endangered,57
+-36.75,144.25,Vulnerable,804
+-36.75,144.75,Critically Endangered,159
+-36.75,144.75,Endangered,37
+-36.75,144.75,Vulnerable,968
+-36.75,145.25,Critically Endangered,76
+-36.75,145.25,Endangered,441
+-36.75,145.25,Vulnerable,555
+-36.75,145.75,Critically Endangered,81
+-36.75,145.75,Endangered,1852
+-36.75,145.75,Vulnerable,371
+-36.75,146.25,Critically Endangered,3
+-36.75,146.25,Endangered,1240
+-36.75,146.25,Vulnerable,166
+-36.75,146.75,Critically Endangered,7
+-36.75,146.75,Endangered,952
+-36.75,146.75,Vulnerable,1474
+-36.75,147.25,Critically Endangered,84
+-36.75,147.25,Endangered,593
+-36.75,147.25,Vulnerable,275
+-36.75,147.75,Critically Endangered,9
+-36.75,147.75,Endangered,39
+-36.75,147.75,Vulnerable,39
+-36.75,148.25,Critically Endangered,13
+-36.75,148.25,Endangered,230
+-36.75,148.25,Vulnerable,120
+-36.75,148.75,Endangered,73
+-36.75,148.75,Vulnerable,108
+-36.75,149.25,Endangered,591
+-36.75,149.25,Vulnerable,207
+-36.75,149.75,Critically Endangered,146
+-36.75,149.75,Endangered,821
+-36.75,149.75,Vulnerable,895
+-36.75,150.25,Critically Endangered,3
+-36.75,150.25,Endangered,193
+-36.75,150.25,Vulnerable,248
+-36.75,150.75,Endangered,1
+-36.75,150.75,Vulnerable,2
+-36.75,151.25,Endangered,1
+-36.75,152.25,Vulnerable,2
+-36.25,135.75,Endangered,2
+-36.25,136.75,Endangered,587
+-36.25,136.75,Vulnerable,95
+-36.25,137.25,Endangered,710
+-36.25,137.25,Vulnerable,71
+-36.25,137.75,Endangered,122
+-36.25,137.75,Vulnerable,1
+-36.25,138.25,Endangered,61
+-36.25,139.75,Critically Endangered,11
+-36.25,139.75,Endangered,42
+-36.25,139.75,Vulnerable,192
+-36.25,140.25,Endangered,70
+-36.25,140.25,Vulnerable,115
+-36.25,140.75,Endangered,12
+-36.25,140.75,Vulnerable,39
+-36.25,141.25,Endangered,218
+-36.25,141.25,Vulnerable,21
+-36.25,141.75,Critically Endangered,17
+-36.25,141.75,Endangered,510
+-36.25,141.75,Vulnerable,568
+-36.25,142.25,Endangered,115
+-36.25,142.25,Vulnerable,147
+-36.25,142.75,Critically Endangered,8
+-36.25,142.75,Endangered,2
+-36.25,142.75,Vulnerable,15
+-36.25,143.25,Critically Endangered,6
+-36.25,143.25,Endangered,1
+-36.25,143.25,Vulnerable,35
+-36.25,143.75,Critically Endangered,29
+-36.25,143.75,Endangered,22
+-36.25,143.75,Vulnerable,2169
+-36.25,144.25,Critically Endangered,1711
+-36.25,144.25,Endangered,37
+-36.25,144.25,Vulnerable,1928
+-36.25,144.75,Critically Endangered,93
+-36.25,144.75,Endangered,171
+-36.25,144.75,Vulnerable,1506
+-36.25,145.25,Critically Endangered,21
+-36.25,145.25,Endangered,99
+-36.25,145.25,Vulnerable,1627
+-36.25,145.75,Critically Endangered,12
+-36.25,145.75,Endangered,21
+-36.25,145.75,Vulnerable,447
+-36.25,146.25,Critically Endangered,153
+-36.25,146.25,Endangered,928
+-36.25,146.25,Vulnerable,2286
+-36.25,146.75,Critically Endangered,576
+-36.25,146.75,Endangered,1776
+-36.25,146.75,Vulnerable,1709
+-36.25,147.25,Critically Endangered,10
+-36.25,147.25,Endangered,832
+-36.25,147.25,Vulnerable,105
+-36.25,147.75,Critically Endangered,231
+-36.25,147.75,Endangered,98
+-36.25,147.75,Vulnerable,112
+-36.25,148.25,Critically Endangered,7
+-36.25,148.25,Endangered,947
+-36.25,148.25,Vulnerable,2218
+-36.25,148.75,Critically Endangered,1
+-36.25,148.75,Endangered,413
+-36.25,148.75,Vulnerable,881
+-36.25,149.25,Critically Endangered,1
+-36.25,149.25,Endangered,538
+-36.25,149.25,Vulnerable,776
+-36.25,149.75,Critically Endangered,31
+-36.25,149.75,Endangered,318
+-36.25,149.75,Vulnerable,178
+-36.25,150.25,Critically Endangered,527
+-36.25,150.25,Endangered,318
+-36.25,150.25,Vulnerable,1503
+-36.25,150.75,Endangered,24
+-36.25,150.75,Vulnerable,15
+-35.75,121.75,Endangered,1
+-35.75,121.75,Vulnerable,4
+-35.75,136.25,Endangered,1
+-35.75,136.25,Vulnerable,2
+-35.75,136.75,Critically Endangered,4
+-35.75,136.75,Endangered,9193
+-35.75,136.75,Vulnerable,2798
+-35.75,137.25,Critically Endangered,6
+-35.75,137.25,Endangered,2781
+-35.75,137.25,Vulnerable,751
+-35.75,137.75,Critically Endangered,252
+-35.75,137.75,Endangered,1793
+-35.75,137.75,Vulnerable,591
+-35.75,138.25,Critically Endangered,3
+-35.75,138.25,Endangered,1250
+-35.75,138.25,Vulnerable,243
+-35.75,138.75,Critically Endangered,228
+-35.75,138.75,Endangered,526
+-35.75,138.75,Vulnerable,788
+-35.75,139.25,Critically Endangered,50
+-35.75,139.25,Endangered,208
+-35.75,139.25,Vulnerable,419
+-35.75,139.75,Critically Endangered,5
+-35.75,139.75,Endangered,11
+-35.75,139.75,Vulnerable,45
+-35.75,140.25,Critically Endangered,2
+-35.75,140.25,Endangered,18
+-35.75,140.25,Vulnerable,18
+-35.75,140.75,Critically Endangered,3
+-35.75,140.75,Endangered,5
+-35.75,140.75,Vulnerable,244
+-35.75,141.25,Endangered,5
+-35.75,141.25,Vulnerable,140
+-35.75,141.75,Critically Endangered,1
+-35.75,141.75,Endangered,196
+-35.75,141.75,Vulnerable,341
+-35.75,142.25,Endangered,30
+-35.75,142.25,Vulnerable,224
+-35.75,142.75,Critically Endangered,2
+-35.75,142.75,Endangered,2
+-35.75,142.75,Vulnerable,7
+-35.75,143.25,Endangered,1
+-35.75,143.25,Vulnerable,1
+-35.75,143.75,Critically Endangered,291
+-35.75,143.75,Endangered,77
+-35.75,143.75,Vulnerable,369
+-35.75,144.25,Critically Endangered,2
+-35.75,144.25,Endangered,153
+-35.75,144.25,Vulnerable,948
+-35.75,144.75,Critically Endangered,9
+-35.75,144.75,Endangered,55
+-35.75,144.75,Vulnerable,1334
+-35.75,145.25,Critically Endangered,2
+-35.75,145.25,Endangered,19
+-35.75,145.25,Vulnerable,577
+-35.75,145.75,Endangered,3662
+-35.75,145.75,Vulnerable,3692
+-35.75,146.25,Endangered,146
+-35.75,146.25,Vulnerable,30
+-35.75,146.75,Endangered,75
+-35.75,146.75,Vulnerable,312
+-35.75,147.25,Endangered,1131
+-35.75,147.25,Vulnerable,400
+-35.75,147.75,Endangered,76
+-35.75,147.75,Vulnerable,41
+-35.75,148.25,Critically Endangered,836
+-35.75,148.25,Endangered,672
+-35.75,148.25,Vulnerable,68
+-35.75,148.75,Critically Endangered,1001
+-35.75,148.75,Endangered,1276
+-35.75,148.75,Vulnerable,917
+-35.75,149.25,Critically Endangered,8
+-35.75,149.25,Endangered,744
+-35.75,149.25,Vulnerable,1603
+-35.75,149.75,Critically Endangered,2
+-35.75,149.75,Endangered,1220
+-35.75,149.75,Vulnerable,138
+-35.75,150.25,Critically Endangered,230
+-35.75,150.25,Endangered,813
+-35.75,150.25,Vulnerable,850
+-35.75,150.75,Endangered,8
+-35.75,150.75,Vulnerable,1
+-35.75,151.25,Endangered,26
+-35.75,151.25,Vulnerable,33
+-35.75,151.75,Endangered,1
+-35.75,151.75,Vulnerable,1
+-35.25,115.25,Endangered,80
+-35.25,115.25,Vulnerable,312
+-35.25,116.75,Vulnerable,55
+-35.25,117.25,Endangered,42
+-35.25,117.25,Vulnerable,25
+-35.25,117.75,Critically Endangered,52
+-35.25,117.75,Endangered,377
+-35.25,117.75,Vulnerable,886
+-35.25,118.25,Critically Endangered,20
+-35.25,118.25,Endangered,64
+-35.25,118.25,Vulnerable,126
+-35.25,120.25,Vulnerable,1
+-35.25,125.25,Vulnerable,1
+-35.25,132.25,Vulnerable,1
+-35.25,134.25,Endangered,1
+-35.25,134.75,Endangered,1
+-35.25,135.75,Endangered,5
+-35.25,136.25,Endangered,43
+-35.25,136.25,Vulnerable,190
+-35.25,136.75,Endangered,75
+-35.25,136.75,Vulnerable,116
+-35.25,137.25,Endangered,41
+-35.25,137.25,Vulnerable,56
+-35.25,137.75,Critically Endangered,4
+-35.25,137.75,Endangered,65
+-35.25,137.75,Vulnerable,83
+-35.25,138.25,Critically Endangered,12
+-35.25,138.25,Endangered,137
+-35.25,138.25,Vulnerable,233
+-35.25,138.75,Critically Endangered,54
+-35.25,138.75,Endangered,1814
+-35.25,138.75,Vulnerable,2601
+-35.25,139.25,Critically Endangered,149
+-35.25,139.25,Endangered,477
+-35.25,139.25,Vulnerable,2540
+-35.25,139.75,Vulnerable,31
+-35.25,140.25,Endangered,1
+-35.25,140.25,Vulnerable,31
+-35.25,140.75,Vulnerable,35
+-35.25,141.25,Endangered,5
+-35.25,141.25,Vulnerable,127
+-35.25,141.75,Endangered,43
+-35.25,141.75,Vulnerable,368
+-35.25,142.25,Endangered,47
+-35.25,142.25,Vulnerable,543
+-35.25,142.75,Vulnerable,29
+-35.25,143.25,Critically Endangered,7
+-35.25,143.25,Endangered,27
+-35.25,143.25,Vulnerable,80
+-35.25,143.75,Critically Endangered,3
+-35.25,143.75,Endangered,41
+-35.25,143.75,Vulnerable,176
+-35.25,144.25,Endangered,19
+-35.25,144.25,Vulnerable,785
+-35.25,144.75,Critically Endangered,37
+-35.25,144.75,Endangered,9
+-35.25,144.75,Vulnerable,623
+-35.25,145.25,Critically Endangered,2
+-35.25,145.25,Endangered,1
+-35.25,145.25,Vulnerable,128
+-35.25,145.75,Endangered,25
+-35.25,145.75,Vulnerable,527
+-35.25,146.25,Endangered,32
+-35.25,146.25,Vulnerable,74
+-35.25,146.75,Endangered,3
+-35.25,146.75,Vulnerable,90
+-35.25,147.25,Critically Endangered,4
+-35.25,147.25,Endangered,25
+-35.25,147.25,Vulnerable,583
+-35.25,147.75,Critically Endangered,19
+-35.25,147.75,Endangered,50
+-35.25,147.75,Vulnerable,622
+-35.25,148.25,Critically Endangered,12
+-35.25,148.25,Endangered,167
+-35.25,148.25,Vulnerable,483
+-35.25,148.75,Critically Endangered,739
+-35.25,148.75,Endangered,1589
+-35.25,148.75,Vulnerable,956
+-35.25,149.25,Critically Endangered,942
+-35.25,149.25,Endangered,12822
+-35.25,149.25,Vulnerable,15086
+-35.25,149.75,Critically Endangered,219
+-35.25,149.75,Endangered,1458
+-35.25,149.75,Vulnerable,322
+-35.25,150.25,Critically Endangered,346
+-35.25,150.25,Endangered,624
+-35.25,150.25,Vulnerable,1301
+-35.25,150.75,Critically Endangered,269
+-35.25,150.75,Endangered,1451
+-35.25,150.75,Vulnerable,2606
+-35.25,151.25,Endangered,12
+-35.25,151.75,Vulnerable,1
+-34.75,115.25,Endangered,10
+-34.75,115.25,Vulnerable,61
+-34.75,115.75,Endangered,3
+-34.75,115.75,Vulnerable,14
+-34.75,116.25,Critically Endangered,8
+-34.75,116.25,Endangered,101
+-34.75,116.25,Vulnerable,124
+-34.75,116.75,Critically Endangered,8
+-34.75,116.75,Endangered,266
+-34.75,116.75,Vulnerable,267
+-34.75,117.25,Critically Endangered,3
+-34.75,117.25,Endangered,609
+-34.75,117.25,Vulnerable,174
+-34.75,117.75,Critically Endangered,95
+-34.75,117.75,Endangered,1438
+-34.75,117.75,Vulnerable,883
+-34.75,118.25,Critically Endangered,22
+-34.75,118.25,Endangered,3086
+-34.75,118.25,Vulnerable,1199
+-34.75,118.75,Critically Endangered,1
+-34.75,118.75,Endangered,1140
+-34.75,118.75,Vulnerable,39
+-34.75,119.25,Endangered,14
+-34.75,119.25,Vulnerable,50
+-34.75,119.75,Endangered,1271
+-34.75,119.75,Vulnerable,2217
+-34.75,120.25,Endangered,1
+-34.75,134.75,Endangered,4
+-34.75,134.75,Vulnerable,1
+-34.75,135.25,Critically Endangered,2
+-34.75,135.25,Endangered,105
+-34.75,135.25,Vulnerable,122
+-34.75,135.75,Critically Endangered,4
+-34.75,135.75,Endangered,559
+-34.75,135.75,Vulnerable,484
+-34.75,136.25,Endangered,81
+-34.75,136.25,Vulnerable,79
+-34.75,136.75,Endangered,1
+-34.75,136.75,Vulnerable,1
+-34.75,137.25,Critically Endangered,23
+-34.75,137.25,Endangered,11
+-34.75,137.25,Vulnerable,59
+-34.75,137.75,Critically Endangered,84
+-34.75,137.75,Endangered,258
+-34.75,137.75,Vulnerable,227
+-34.75,138.25,Critically Endangered,67
+-34.75,138.25,Endangered,163
+-34.75,138.25,Vulnerable,509
+-34.75,138.75,Critically Endangered,50
+-34.75,138.75,Endangered,1108
+-34.75,138.75,Vulnerable,10213
+-34.75,139.25,Critically Endangered,2
+-34.75,139.25,Endangered,422
+-34.75,139.25,Vulnerable,2146
+-34.75,139.75,Endangered,20
+-34.75,139.75,Vulnerable,75
+-34.75,140.25,Critically Endangered,2
+-34.75,140.25,Endangered,5
+-34.75,140.25,Vulnerable,73
+-34.75,140.75,Critically Endangered,4
+-34.75,140.75,Endangered,32
+-34.75,140.75,Vulnerable,92
+-34.75,141.25,Critically Endangered,5
+-34.75,141.25,Endangered,203
+-34.75,141.25,Vulnerable,444
+-34.75,141.75,Endangered,47
+-34.75,141.75,Vulnerable,156
+-34.75,142.25,Critically Endangered,75
+-34.75,142.25,Endangered,1016
+-34.75,142.25,Vulnerable,1612
+-34.75,142.75,Endangered,9
+-34.75,142.75,Vulnerable,631
+-34.75,143.25,Endangered,14
+-34.75,143.25,Vulnerable,167
+-34.75,143.75,Critically Endangered,12
+-34.75,143.75,Endangered,40
+-34.75,143.75,Vulnerable,1289
+-34.75,144.25,Critically Endangered,35
+-34.75,144.25,Endangered,228
+-34.75,144.25,Vulnerable,7354
+-34.75,144.75,Critically Endangered,9
+-34.75,144.75,Endangered,111
+-34.75,144.75,Vulnerable,406
+-34.75,145.25,Critically Endangered,93
+-34.75,145.25,Endangered,1
+-34.75,145.25,Vulnerable,461
+-34.75,145.75,Endangered,5
+-34.75,145.75,Vulnerable,291
+-34.75,146.25,Endangered,292
+-34.75,146.25,Vulnerable,679
+-34.75,146.75,Critically Endangered,1
+-34.75,146.75,Endangered,25
+-34.75,146.75,Vulnerable,155
+-34.75,147.25,Endangered,6
+-34.75,147.25,Vulnerable,95
+-34.75,147.75,Critically Endangered,1
+-34.75,147.75,Endangered,2
+-34.75,147.75,Vulnerable,548
+-34.75,148.25,Endangered,33
+-34.75,148.25,Vulnerable,1220
+-34.75,148.75,Endangered,65
+-34.75,148.75,Vulnerable,959
+-34.75,149.25,Critically Endangered,1
+-34.75,149.25,Endangered,526
+-34.75,149.25,Vulnerable,2044
+-34.75,149.75,Critically Endangered,71
+-34.75,149.75,Endangered,669
+-34.75,149.75,Vulnerable,593
+-34.75,150.25,Critically Endangered,72
+-34.75,150.25,Endangered,1887
+-34.75,150.25,Vulnerable,1693
+-34.75,150.75,Critically Endangered,3268
+-34.75,150.75,Endangered,4382
+-34.75,150.75,Vulnerable,12189
+-34.75,151.25,Endangered,334
+-34.75,151.25,Vulnerable,816
+-34.75,153.25,Vulnerable,2
+-34.25,114.75,Endangered,1
+-34.25,114.75,Vulnerable,2
+-34.25,115.25,Critically Endangered,21
+-34.25,115.25,Endangered,518
+-34.25,115.25,Vulnerable,479
+-34.25,115.75,Critically Endangered,3
+-34.25,115.75,Endangered,86
+-34.25,115.75,Vulnerable,65
+-34.25,116.25,Critically Endangered,9
+-34.25,116.25,Endangered,677
+-34.25,116.25,Vulnerable,127
+-34.25,116.75,Critically Endangered,8
+-34.25,116.75,Endangered,302
+-34.25,116.75,Vulnerable,73
+-34.25,117.25,Critically Endangered,2
+-34.25,117.25,Endangered,27
+-34.25,117.25,Vulnerable,7
+-34.25,117.75,Critically Endangered,4
+-34.25,117.75,Endangered,124
+-34.25,117.75,Vulnerable,22
+-34.25,118.25,Critically Endangered,56
+-34.25,118.25,Endangered,654
+-34.25,118.25,Vulnerable,56
+-34.25,118.75,Endangered,68
+-34.25,118.75,Vulnerable,132
+-34.25,119.25,Critically Endangered,7
+-34.25,119.25,Endangered,124
+-34.25,119.25,Vulnerable,184
+-34.25,119.75,Endangered,107
+-34.25,119.75,Vulnerable,85
+-34.25,122.25,Endangered,2
+-34.25,122.75,Endangered,1
+-34.25,123.75,Vulnerable,3
+-34.25,135.25,Critically Endangered,1
+-34.25,135.25,Endangered,25
+-34.25,135.25,Vulnerable,24
+-34.25,135.75,Critically Endangered,1
+-34.25,135.75,Endangered,17
+-34.25,135.75,Vulnerable,54
+-34.25,136.25,Critically Endangered,1
+-34.25,136.25,Endangered,42
+-34.25,136.25,Vulnerable,95
+-34.25,137.25,Critically Endangered,1
+-34.25,137.25,Endangered,13
+-34.25,137.25,Vulnerable,15
+-34.25,137.75,Critically Endangered,12
+-34.25,137.75,Endangered,49
+-34.25,137.75,Vulnerable,105
+-34.25,138.25,Critically Endangered,890
+-34.25,138.25,Endangered,541
+-34.25,138.25,Vulnerable,2962
+-34.25,138.75,Critically Endangered,1
+-34.25,138.75,Endangered,3248
+-34.25,138.75,Vulnerable,35
+-34.25,139.25,Critically Endangered,5
+-34.25,139.25,Endangered,793
+-34.25,139.25,Vulnerable,348
+-34.25,139.75,Endangered,17
+-34.25,139.75,Vulnerable,262
+-34.25,140.25,Endangered,13
+-34.25,140.25,Vulnerable,147
+-34.25,140.75,Critically Endangered,3
+-34.25,140.75,Endangered,94
+-34.25,140.75,Vulnerable,631
+-34.25,141.25,Critically Endangered,1
+-34.25,141.25,Endangered,52
+-34.25,141.25,Vulnerable,660
+-34.25,141.75,Endangered,17
+-34.25,141.75,Vulnerable,261
+-34.25,142.25,Critically Endangered,11
+-34.25,142.25,Endangered,129
+-34.25,142.25,Vulnerable,275
+-34.25,142.75,Endangered,431
+-34.25,142.75,Vulnerable,704
+-34.25,143.25,Endangered,59
+-34.25,143.25,Vulnerable,159
+-34.25,143.75,Critically Endangered,2
+-34.25,143.75,Endangered,61
+-34.25,143.75,Vulnerable,514
+-34.25,144.25,Critically Endangered,32
+-34.25,144.25,Endangered,17
+-34.25,144.25,Vulnerable,518
+-34.25,144.75,Critically Endangered,6
+-34.25,144.75,Endangered,3
+-34.25,144.75,Vulnerable,10
+-34.25,145.25,Endangered,5
+-34.25,145.25,Vulnerable,9
+-34.25,145.75,Critically Endangered,11
+-34.25,145.75,Endangered,4
+-34.25,145.75,Vulnerable,45
+-34.25,146.25,Endangered,471
+-34.25,146.25,Vulnerable,272
+-34.25,146.75,Endangered,10
+-34.25,146.75,Vulnerable,12
+-34.25,147.25,Critically Endangered,1
+-34.25,147.25,Endangered,23
+-34.25,147.25,Vulnerable,94
+-34.25,147.75,Vulnerable,139
+-34.25,148.25,Critically Endangered,7
+-34.25,148.25,Endangered,2
+-34.25,148.25,Vulnerable,330
+-34.25,148.75,Critically Endangered,154
+-34.25,148.75,Endangered,16
+-34.25,148.75,Vulnerable,613
+-34.25,149.25,Endangered,66
+-34.25,149.25,Vulnerable,76
+-34.25,149.75,Endangered,342
+-34.25,149.75,Vulnerable,121
+-34.25,150.25,Critically Endangered,491
+-34.25,150.25,Endangered,998
+-34.25,150.25,Vulnerable,4485
+-34.25,150.75,Critically Endangered,1123
+-34.25,150.75,Endangered,2815
+-34.25,150.75,Vulnerable,7642
+-34.25,151.25,Critically Endangered,1494
+-34.25,151.25,Endangered,511
+-34.25,151.25,Vulnerable,2702
+-34.25,151.75,Endangered,38
+-34.25,151.75,Vulnerable,154
+-34.25,152.25,Endangered,2
+-34.25,152.25,Vulnerable,23
+-33.75,113.25,Vulnerable,1
+-33.75,114.75,Critically Endangered,2
+-33.75,114.75,Endangered,4
+-33.75,115.25,Critically Endangered,214
+-33.75,115.25,Endangered,1543
+-33.75,115.25,Vulnerable,901
+-33.75,115.75,Critically Endangered,31
+-33.75,115.75,Endangered,249
+-33.75,115.75,Vulnerable,336
+-33.75,116.25,Endangered,148
+-33.75,116.25,Vulnerable,86
+-33.75,116.75,Critically Endangered,2
+-33.75,116.75,Endangered,18
+-33.75,116.75,Vulnerable,12
+-33.75,117.25,Critically Endangered,3
+-33.75,117.25,Endangered,21
+-33.75,117.25,Vulnerable,9
+-33.75,117.75,Critically Endangered,1
+-33.75,117.75,Endangered,41
+-33.75,117.75,Vulnerable,4
+-33.75,118.25,Critically Endangered,2
+-33.75,118.25,Endangered,3
+-33.75,118.25,Vulnerable,1
+-33.75,118.75,Critically Endangered,2
+-33.75,118.75,Endangered,4
+-33.75,118.75,Vulnerable,5
+-33.75,119.25,Endangered,10
+-33.75,119.75,Endangered,26
+-33.75,119.75,Vulnerable,19
+-33.75,120.25,Critically Endangered,4
+-33.75,120.25,Endangered,83
+-33.75,120.25,Vulnerable,155
+-33.75,120.75,Critically Endangered,1
+-33.75,120.75,Endangered,13
+-33.75,120.75,Vulnerable,5
+-33.75,121.25,Critically Endangered,1
+-33.75,121.25,Endangered,10
+-33.75,121.25,Vulnerable,7
+-33.75,121.75,Critically Endangered,7
+-33.75,121.75,Endangered,196
+-33.75,121.75,Vulnerable,47
+-33.75,122.25,Critically Endangered,1
+-33.75,122.25,Endangered,78
+-33.75,122.25,Vulnerable,23
+-33.75,122.75,Endangered,21
+-33.75,122.75,Vulnerable,8
+-33.75,123.25,Critically Endangered,33
+-33.75,123.25,Endangered,8
+-33.75,123.25,Vulnerable,4
+-33.75,123.75,Critically Endangered,16
+-33.75,123.75,Endangered,2
+-33.75,123.75,Vulnerable,18
+-33.75,124.25,Vulnerable,3
+-33.75,134.25,Endangered,12
+-33.75,134.25,Vulnerable,3
+-33.75,134.75,Endangered,18
+-33.75,134.75,Vulnerable,49
+-33.75,135.25,Endangered,4
+-33.75,135.25,Vulnerable,13
+-33.75,135.75,Endangered,2
+-33.75,135.75,Vulnerable,3
+-33.75,136.25,Endangered,4
+-33.75,136.25,Vulnerable,2
+-33.75,136.75,Critically Endangered,5
+-33.75,136.75,Endangered,112
+-33.75,136.75,Vulnerable,134
+-33.75,137.25,Endangered,2
+-33.75,137.25,Vulnerable,3
+-33.75,137.75,Endangered,18
+-33.75,137.75,Vulnerable,21
+-33.75,138.25,Critically Endangered,1
+-33.75,138.25,Endangered,167
+-33.75,138.75,Endangered,819
+-33.75,138.75,Vulnerable,301
+-33.75,139.25,Endangered,2914
+-33.75,139.25,Vulnerable,175
+-33.75,139.75,Endangered,29
+-33.75,139.75,Vulnerable,76
+-33.75,140.25,Critically Endangered,26
+-33.75,140.25,Endangered,701
+-33.75,140.25,Vulnerable,390
+-33.75,140.75,Critically Endangered,7
+-33.75,140.75,Endangered,66
+-33.75,140.75,Vulnerable,396
+-33.75,141.25,Endangered,6
+-33.75,141.25,Vulnerable,105
+-33.75,141.75,Endangered,7
+-33.75,141.75,Vulnerable,30
+-33.75,142.25,Vulnerable,1
+-33.75,142.75,Vulnerable,11
+-33.75,143.25,Critically Endangered,1
+-33.75,143.25,Endangered,27
+-33.75,143.25,Vulnerable,178
+-33.75,143.75,Endangered,1
+-33.75,144.75,Endangered,9
+-33.75,144.75,Vulnerable,6
+-33.75,145.25,Vulnerable,4
+-33.75,145.75,Vulnerable,6
+-33.75,146.25,Critically Endangered,4
+-33.75,146.25,Endangered,10
+-33.75,146.25,Vulnerable,42
+-33.75,146.75,Endangered,2
+-33.75,146.75,Vulnerable,121
+-33.75,147.25,Endangered,30
+-33.75,147.25,Vulnerable,122
+-33.75,147.75,Critically Endangered,2
+-33.75,147.75,Endangered,2
+-33.75,147.75,Vulnerable,170
+-33.75,148.25,Critically Endangered,10
+-33.75,148.25,Endangered,5
+-33.75,148.25,Vulnerable,1208
+-33.75,148.75,Critically Endangered,5
+-33.75,148.75,Endangered,10
+-33.75,148.75,Vulnerable,1174
+-33.75,149.25,Critically Endangered,178
+-33.75,149.25,Endangered,29
+-33.75,149.25,Vulnerable,189
+-33.75,149.75,Endangered,315
+-33.75,149.75,Vulnerable,207
+-33.75,150.25,Critically Endangered,977
+-33.75,150.25,Endangered,3749
+-33.75,150.25,Vulnerable,3810
+-33.75,150.75,Critically Endangered,790
+-33.75,150.75,Endangered,7292
+-33.75,150.75,Vulnerable,8650
+-33.75,151.25,Critically Endangered,3516
+-33.75,151.25,Endangered,3095
+-33.75,151.25,Vulnerable,16359
+-33.75,151.75,Endangered,153
+-33.75,151.75,Vulnerable,435
+-33.75,152.25,Endangered,15
+-33.75,152.25,Vulnerable,35
+-33.75,153.75,Endangered,6
+-33.25,115.25,Critically Endangered,6
+-33.25,115.25,Endangered,42
+-33.25,115.25,Vulnerable,2
+-33.25,115.75,Critically Endangered,128
+-33.25,115.75,Endangered,913
+-33.25,115.75,Vulnerable,733
+-33.25,116.25,Critically Endangered,2
+-33.25,116.25,Endangered,101
+-33.25,116.25,Vulnerable,53
+-33.25,116.75,Endangered,18
+-33.25,116.75,Vulnerable,21
+-33.25,117.25,Endangered,12
+-33.25,117.25,Vulnerable,7
+-33.25,118.25,Critically Endangered,2
+-33.25,118.25,Endangered,1
+-33.25,118.25,Vulnerable,2
+-33.25,118.75,Critically Endangered,2
+-33.25,118.75,Endangered,2
+-33.25,118.75,Vulnerable,2
+-33.25,119.25,Endangered,4
+-33.25,119.75,Endangered,2
+-33.25,120.25,Endangered,4
+-33.25,121.25,Endangered,5
+-33.25,121.25,Vulnerable,1
+-33.25,121.75,Vulnerable,4
+-33.25,122.25,Vulnerable,1
+-33.25,122.75,Vulnerable,1
+-33.25,134.25,Critically Endangered,4
+-33.25,134.25,Endangered,73
+-33.25,134.25,Vulnerable,20
+-33.25,134.75,Critically Endangered,3
+-33.25,134.75,Endangered,33
+-33.25,134.75,Vulnerable,58
+-33.25,135.25,Endangered,2
+-33.25,135.25,Vulnerable,13
+-33.25,135.75,Vulnerable,7
+-33.25,136.25,Endangered,10
+-33.25,136.25,Vulnerable,18
+-33.25,136.75,Endangered,53
+-33.25,136.75,Vulnerable,41
+-33.25,137.25,Endangered,13
+-33.25,137.25,Vulnerable,132
+-33.25,137.75,Endangered,9
+-33.25,137.75,Vulnerable,79
+-33.25,138.25,Critically Endangered,6
+-33.25,138.25,Endangered,51
+-33.25,138.25,Vulnerable,50
+-33.25,138.75,Endangered,744
+-33.25,138.75,Vulnerable,5
+-33.25,139.25,Endangered,12
+-33.25,139.25,Vulnerable,35
+-33.25,140.25,Endangered,9
+-33.25,140.25,Vulnerable,1
+-33.25,140.75,Endangered,17
+-33.25,140.75,Vulnerable,14
+-33.25,141.25,Critically Endangered,4
+-33.25,141.25,Endangered,46
+-33.25,141.25,Vulnerable,9132
+-33.25,141.75,Critically Endangered,10
+-33.25,141.75,Endangered,6
+-33.25,141.75,Vulnerable,25
+-33.25,142.25,Endangered,3
+-33.25,142.25,Vulnerable,13
+-33.25,142.75,Endangered,3
+-33.25,142.75,Vulnerable,5
+-33.25,143.25,Critically Endangered,16
+-33.25,143.25,Endangered,1
+-33.25,143.25,Vulnerable,3
+-33.25,143.75,Endangered,1
+-33.25,143.75,Vulnerable,1
+-33.25,144.25,Critically Endangered,1
+-33.25,144.25,Endangered,1
+-33.25,144.25,Vulnerable,1
+-33.25,144.75,Vulnerable,2
+-33.25,145.25,Critically Endangered,2
+-33.25,145.25,Vulnerable,19
+-33.25,145.75,Endangered,3
+-33.25,145.75,Vulnerable,48
+-33.25,146.25,Endangered,15
+-33.25,146.25,Vulnerable,321
+-33.25,146.75,Endangered,1
+-33.25,146.75,Vulnerable,16
+-33.25,147.25,Endangered,12
+-33.25,147.25,Vulnerable,118
+-33.25,147.75,Endangered,4
+-33.25,147.75,Vulnerable,70
+-33.25,148.25,Endangered,2
+-33.25,148.25,Vulnerable,303
+-33.25,148.75,Endangered,46
+-33.25,148.75,Vulnerable,331
+-33.25,149.25,Critically Endangered,1
+-33.25,149.25,Endangered,2627
+-33.25,149.25,Vulnerable,664
+-33.25,149.75,Critically Endangered,1
+-33.25,149.75,Endangered,152
+-33.25,149.75,Vulnerable,889
+-33.25,150.25,Critically Endangered,24
+-33.25,150.25,Endangered,3564
+-33.25,150.25,Vulnerable,3352
+-33.25,150.75,Critically Endangered,21
+-33.25,150.75,Endangered,1179
+-33.25,150.75,Vulnerable,428
+-33.25,151.25,Critically Endangered,4120
+-33.25,151.25,Endangered,2378
+-33.25,151.25,Vulnerable,8436
+-33.25,151.75,Critically Endangered,1991
+-33.25,151.75,Endangered,438
+-33.25,151.75,Vulnerable,4359
+-33.25,152.25,Endangered,12
+-33.25,152.25,Vulnerable,69
+-32.75,115.75,Critically Endangered,650
+-32.75,115.75,Endangered,1347
+-32.75,115.75,Vulnerable,1659
+-32.75,116.25,Endangered,152
+-32.75,116.25,Vulnerable,144
+-32.75,116.75,Endangered,645
+-32.75,116.75,Vulnerable,84
+-32.75,117.25,Endangered,393
+-32.75,117.25,Vulnerable,42
+-32.75,117.75,Endangered,17
+-32.75,118.25,Endangered,2
+-32.75,118.75,Endangered,6
+-32.75,118.75,Vulnerable,3
+-32.75,119.25,Endangered,2
+-32.75,119.25,Vulnerable,5
+-32.75,119.75,Endangered,2
+-32.75,119.75,Vulnerable,3
+-32.75,121.25,Vulnerable,2
+-32.75,121.75,Vulnerable,2
+-32.75,129.25,Endangered,1
+-32.75,133.25,Endangered,20
+-32.75,133.75,Endangered,5698
+-32.75,133.75,Vulnerable,1
+-32.75,134.25,Critically Endangered,21
+-32.75,134.25,Endangered,159
+-32.75,134.25,Vulnerable,157
+-32.75,134.75,Endangered,2
+-32.75,134.75,Vulnerable,9
+-32.75,135.25,Endangered,1
+-32.75,135.25,Vulnerable,68
+-32.75,135.75,Vulnerable,13
+-32.75,136.25,Vulnerable,17
+-32.75,136.75,Critically Endangered,1
+-32.75,136.75,Vulnerable,22
+-32.75,137.25,Endangered,24
+-32.75,137.25,Vulnerable,124
+-32.75,137.75,Critically Endangered,36
+-32.75,137.75,Endangered,11
+-32.75,137.75,Vulnerable,332
+-32.75,138.25,Critically Endangered,2
+-32.75,138.25,Endangered,126
+-32.75,138.25,Vulnerable,267
+-32.75,138.75,Endangered,294
+-32.75,138.75,Vulnerable,43
+-32.75,139.25,Critically Endangered,2
+-32.75,139.25,Vulnerable,5
+-32.75,139.75,Vulnerable,1
+-32.75,140.25,Vulnerable,2
+-32.75,140.75,Endangered,4
+-32.75,140.75,Vulnerable,4
+-32.75,141.25,Endangered,2
+-32.75,141.25,Vulnerable,4
+-32.75,141.75,Vulnerable,2
+-32.75,142.25,Endangered,2
+-32.75,142.25,Vulnerable,18
+-32.75,143.25,Vulnerable,2
+-32.75,143.75,Vulnerable,5
+-32.75,144.25,Endangered,1
+-32.75,144.25,Vulnerable,1
+-32.75,144.75,Endangered,1
+-32.75,144.75,Vulnerable,3
+-32.75,145.25,Critically Endangered,6
+-32.75,145.25,Endangered,1
+-32.75,145.25,Vulnerable,35
+-32.75,145.75,Endangered,12
+-32.75,145.75,Vulnerable,363
+-32.75,146.25,Endangered,7
+-32.75,146.25,Vulnerable,314
+-32.75,146.75,Endangered,2
+-32.75,146.75,Vulnerable,19
+-32.75,147.25,Endangered,14
+-32.75,147.25,Vulnerable,50
+-32.75,147.75,Endangered,13
+-32.75,147.75,Vulnerable,30
+-32.75,148.25,Vulnerable,87
+-32.75,148.75,Endangered,33
+-32.75,148.75,Vulnerable,144
+-32.75,149.25,Critically Endangered,5
+-32.75,149.25,Endangered,324
+-32.75,149.25,Vulnerable,214
+-32.75,149.75,Critically Endangered,7
+-32.75,149.75,Endangered,354
+-32.75,149.75,Vulnerable,95
+-32.75,150.25,Critically Endangered,114
+-32.75,150.25,Endangered,526
+-32.75,150.25,Vulnerable,629
+-32.75,150.75,Critically Endangered,14
+-32.75,150.75,Endangered,123
+-32.75,150.75,Vulnerable,361
+-32.75,151.25,Critically Endangered,2451
+-32.75,151.25,Endangered,455
+-32.75,151.25,Vulnerable,1527
+-32.75,151.75,Critically Endangered,4165
+-32.75,151.75,Endangered,1359
+-32.75,151.75,Vulnerable,13791
+-32.75,152.25,Critically Endangered,543
+-32.75,152.25,Endangered,554
+-32.75,152.25,Vulnerable,1957
+-32.75,152.75,Endangered,174
+-32.75,152.75,Vulnerable,500
+-32.25,114.75,Vulnerable,1
+-32.25,115.25,Endangered,3
+-32.25,115.25,Vulnerable,59
+-32.25,115.75,Critically Endangered,38
+-32.25,115.75,Endangered,2015
+-32.25,115.75,Vulnerable,2424
+-32.25,116.25,Critically Endangered,11
+-32.25,116.25,Endangered,718
+-32.25,116.25,Vulnerable,655
+-32.25,116.75,Critically Endangered,1
+-32.25,116.75,Endangered,254
+-32.25,116.75,Vulnerable,65
+-32.25,117.25,Endangered,26
+-32.25,117.25,Vulnerable,3
+-32.25,117.75,Critically Endangered,3
+-32.25,117.75,Endangered,28
+-32.25,118.25,Endangered,1
+-32.25,118.75,Endangered,2
+-32.25,118.75,Vulnerable,5
+-32.25,119.25,Vulnerable,3
+-32.25,119.75,Critically Endangered,1
+-32.25,119.75,Endangered,5
+-32.25,119.75,Vulnerable,18
+-32.25,121.75,Vulnerable,1
+-32.25,122.25,Vulnerable,1
+-32.25,123.25,Vulnerable,1
+-32.25,126.25,Critically Endangered,14
+-32.25,126.25,Endangered,20
+-32.25,126.25,Vulnerable,219
+-32.25,132.25,Endangered,20
+-32.25,132.25,Vulnerable,4
+-32.25,132.75,Critically Endangered,11
+-32.25,132.75,Endangered,22
+-32.25,132.75,Vulnerable,42
+-32.25,133.25,Endangered,30
+-32.25,133.25,Vulnerable,19
+-32.25,133.75,Critically Endangered,11
+-32.25,133.75,Endangered,76
+-32.25,133.75,Vulnerable,140
+-32.25,134.25,Endangered,6
+-32.25,134.25,Vulnerable,12
+-32.25,134.75,Vulnerable,1
+-32.25,135.25,Endangered,1
+-32.25,135.25,Vulnerable,1077
+-32.25,135.75,Vulnerable,29
+-32.25,136.25,Vulnerable,299
+-32.25,137.25,Vulnerable,8
+-32.25,137.75,Critically Endangered,1
+-32.25,137.75,Endangered,4
+-32.25,137.75,Vulnerable,950
+-32.25,138.25,Endangered,1
+-32.25,138.25,Vulnerable,154
+-32.25,138.75,Vulnerable,2
+-32.25,139.25,Vulnerable,8
+-32.25,139.75,Vulnerable,2
+-32.25,140.25,Vulnerable,56
+-32.25,140.75,Critically Endangered,1
+-32.25,140.75,Endangered,1
+-32.25,140.75,Vulnerable,15
+-32.25,141.25,Vulnerable,31
+-32.25,141.75,Vulnerable,6
+-32.25,142.25,Critically Endangered,2
+-32.25,142.25,Endangered,6
+-32.25,142.25,Vulnerable,32
+-32.25,142.75,Endangered,1
+-32.25,142.75,Vulnerable,8
+-32.25,143.75,Endangered,1
+-32.25,143.75,Vulnerable,3
+-32.25,144.75,Endangered,5
+-32.25,144.75,Vulnerable,5
+-32.25,145.25,Critically Endangered,2
+-32.25,145.25,Endangered,1
+-32.25,145.25,Vulnerable,7
+-32.25,145.75,Critically Endangered,1
+-32.25,145.75,Endangered,3
+-32.25,145.75,Vulnerable,29
+-32.25,146.25,Endangered,3
+-32.25,146.25,Vulnerable,9
+-32.25,146.75,Vulnerable,1
+-32.25,147.25,Vulnerable,5
+-32.25,147.75,Vulnerable,24
+-32.25,148.25,Endangered,10
+-32.25,148.25,Vulnerable,104
+-32.25,148.75,Critically Endangered,4
+-32.25,148.75,Endangered,104
+-32.25,148.75,Vulnerable,527
+-32.25,149.25,Endangered,83
+-32.25,149.25,Vulnerable,219
+-32.25,149.75,Critically Endangered,19
+-32.25,149.75,Endangered,2261
+-32.25,149.75,Vulnerable,633
+-32.25,150.25,Critically Endangered,47
+-32.25,150.25,Endangered,69
+-32.25,150.25,Vulnerable,386
+-32.25,150.75,Critically Endangered,17
+-32.25,150.75,Endangered,370
+-32.25,150.75,Vulnerable,260
+-32.25,151.25,Critically Endangered,16
+-32.25,151.25,Endangered,283
+-32.25,151.25,Vulnerable,83
+-32.25,151.75,Critically Endangered,138
+-32.25,151.75,Endangered,725
+-32.25,151.75,Vulnerable,371
+-32.25,152.25,Critically Endangered,859
+-32.25,152.25,Endangered,805
+-32.25,152.25,Vulnerable,923
+-32.25,152.75,Critically Endangered,438
+-32.25,152.75,Endangered,83
+-32.25,152.75,Vulnerable,811
+-32.25,153.25,Endangered,1
+-32.25,153.25,Vulnerable,4
+-31.75,115.25,Endangered,46
+-31.75,115.25,Vulnerable,631
+-31.75,115.75,Critically Endangered,63
+-31.75,115.75,Endangered,6094
+-31.75,115.75,Vulnerable,4276
+-31.75,116.25,Critically Endangered,8
+-31.75,116.25,Endangered,7031
+-31.75,116.25,Vulnerable,3081
+-31.75,116.75,Critically Endangered,3
+-31.75,116.75,Endangered,448
+-31.75,116.75,Vulnerable,119
+-31.75,117.25,Critically Endangered,2
+-31.75,117.25,Endangered,3
+-31.75,117.25,Vulnerable,1
+-31.75,117.75,Critically Endangered,2
+-31.75,117.75,Endangered,8
+-31.75,117.75,Vulnerable,1
+-31.75,118.25,Vulnerable,6
+-31.75,118.75,Vulnerable,5
+-31.75,119.25,Vulnerable,2
+-31.75,119.75,Critically Endangered,1
+-31.75,119.75,Vulnerable,3
+-31.75,120.25,Vulnerable,1
+-31.75,120.75,Vulnerable,1
+-31.75,121.25,Vulnerable,1
+-31.75,121.75,Vulnerable,1
+-31.75,122.25,Vulnerable,1
+-31.75,126.25,Vulnerable,4
+-31.75,126.75,Vulnerable,1
+-31.75,127.25,Vulnerable,2
+-31.75,127.75,Vulnerable,1
+-31.75,128.25,Vulnerable,4
+-31.75,128.75,Vulnerable,29
+-31.75,129.25,Endangered,8
+-31.75,129.25,Vulnerable,2
+-31.75,129.75,Endangered,10
+-31.75,129.75,Vulnerable,28
+-31.75,130.25,Endangered,10
+-31.75,130.25,Vulnerable,1
+-31.75,130.75,Endangered,8
+-31.75,131.25,Endangered,1342
+-31.75,131.75,Endangered,2
+-31.75,131.75,Vulnerable,2
+-31.75,132.25,Critically Endangered,2
+-31.75,132.25,Endangered,23
+-31.75,132.25,Vulnerable,18
+-31.75,132.75,Endangered,3
+-31.75,132.75,Vulnerable,1
+-31.75,133.25,Vulnerable,2
+-31.75,133.75,Endangered,8
+-31.75,133.75,Vulnerable,5
+-31.75,134.25,Vulnerable,2
+-31.75,135.25,Vulnerable,2
+-31.75,137.25,Vulnerable,8
+-31.75,138.25,Endangered,8
+-31.75,138.25,Vulnerable,22
+-31.75,138.75,Critically Endangered,1
+-31.75,138.75,Endangered,1
+-31.75,138.75,Vulnerable,246
+-31.75,139.75,Vulnerable,5
+-31.75,140.25,Vulnerable,384
+-31.75,140.75,Critically Endangered,1
+-31.75,140.75,Endangered,1
+-31.75,140.75,Vulnerable,91
+-31.75,141.25,Critically Endangered,1
+-31.75,141.25,Endangered,2
+-31.75,141.25,Vulnerable,151
+-31.75,141.75,Critically Endangered,1
+-31.75,141.75,Endangered,1
+-31.75,141.75,Vulnerable,66
+-31.75,142.25,Vulnerable,23
+-31.75,142.75,Vulnerable,2
+-31.75,143.25,Endangered,3
+-31.75,143.25,Vulnerable,22
+-31.75,143.75,Endangered,1
+-31.75,143.75,Vulnerable,1
+-31.75,144.25,Endangered,1
+-31.75,144.25,Vulnerable,4
+-31.75,144.75,Vulnerable,4
+-31.75,145.25,Vulnerable,7
+-31.75,145.75,Endangered,7
+-31.75,145.75,Vulnerable,74
+-31.75,146.75,Vulnerable,13
+-31.75,147.25,Endangered,5
+-31.75,147.25,Vulnerable,51
+-31.75,147.75,Vulnerable,25
+-31.75,148.25,Vulnerable,9
+-31.75,148.75,Endangered,136
+-31.75,148.75,Vulnerable,181
+-31.75,149.25,Critically Endangered,1
+-31.75,149.25,Endangered,257
+-31.75,149.25,Vulnerable,259
+-31.75,149.75,Critically Endangered,1
+-31.75,149.75,Endangered,74
+-31.75,149.75,Vulnerable,24
+-31.75,150.25,Endangered,1156
+-31.75,150.25,Vulnerable,10
+-31.75,150.75,Critically Endangered,1
+-31.75,150.75,Endangered,8
+-31.75,150.75,Vulnerable,101
+-31.75,151.25,Critically Endangered,251
+-31.75,151.25,Endangered,765
+-31.75,151.25,Vulnerable,131
+-31.75,151.75,Critically Endangered,32
+-31.75,151.75,Endangered,1164
+-31.75,151.75,Vulnerable,149
+-31.75,152.25,Critically Endangered,1389
+-31.75,152.25,Endangered,840
+-31.75,152.25,Vulnerable,665
+-31.75,152.75,Critically Endangered,2876
+-31.75,152.75,Endangered,187
+-31.75,152.75,Vulnerable,2861
+-31.75,153.25,Vulnerable,9
+-31.25,115.25,Critically Endangered,1
+-31.25,115.25,Endangered,13
+-31.25,115.25,Vulnerable,9
+-31.25,115.75,Critically Endangered,8
+-31.25,115.75,Endangered,193
+-31.25,115.75,Vulnerable,166
+-31.25,116.25,Endangered,253
+-31.25,116.25,Vulnerable,28
+-31.25,116.75,Endangered,7
+-31.25,116.75,Vulnerable,2
+-31.25,117.25,Endangered,1
+-31.25,117.25,Vulnerable,1
+-31.25,117.75,Endangered,2
+-31.25,118.25,Critically Endangered,1
+-31.25,118.25,Endangered,4
+-31.25,118.25,Vulnerable,2
+-31.25,118.75,Endangered,1
+-31.25,118.75,Vulnerable,11
+-31.25,119.25,Vulnerable,2
+-31.25,119.75,Vulnerable,1
+-31.25,120.75,Vulnerable,1
+-31.25,121.75,Vulnerable,1
+-31.25,127.75,Vulnerable,2
+-31.25,128.75,Vulnerable,2
+-31.25,129.25,Vulnerable,5
+-31.25,129.75,Vulnerable,63
+-31.25,130.25,Vulnerable,7
+-31.25,130.75,Vulnerable,98
+-31.25,131.25,Endangered,81
+-31.25,131.25,Vulnerable,8
+-31.25,133.25,Vulnerable,1
+-31.25,133.75,Endangered,2
+-31.25,133.75,Vulnerable,3
+-31.25,134.25,Endangered,1
+-31.25,134.25,Vulnerable,1
+-31.25,135.25,Vulnerable,2
+-31.25,135.75,Vulnerable,8
+-31.25,136.25,Vulnerable,5
+-31.25,136.75,Vulnerable,1
+-31.25,137.25,Vulnerable,9
+-31.25,137.75,Vulnerable,1
+-31.25,138.25,Vulnerable,3
+-31.25,138.75,Endangered,3
+-31.25,138.75,Vulnerable,591
+-31.25,139.75,Vulnerable,2
+-31.25,140.25,Critically Endangered,1
+-31.25,140.25,Vulnerable,2
+-31.25,140.75,Vulnerable,3
+-31.25,141.25,Endangered,1
+-31.25,141.75,Critically Endangered,10
+-31.25,141.75,Vulnerable,83
+-31.25,142.25,Endangered,4
+-31.25,142.25,Vulnerable,114
+-31.25,143.25,Endangered,1
+-31.25,143.25,Vulnerable,21
+-31.25,143.75,Vulnerable,1
+-31.25,144.25,Vulnerable,3
+-31.25,145.25,Endangered,5
+-31.25,145.25,Vulnerable,6
+-31.25,145.75,Endangered,5
+-31.25,145.75,Vulnerable,138
+-31.25,146.25,Critically Endangered,1
+-31.25,146.75,Endangered,2
+-31.25,146.75,Vulnerable,2
+-31.25,147.25,Endangered,1
+-31.25,147.25,Vulnerable,47
+-31.25,147.75,Endangered,2
+-31.25,147.75,Vulnerable,18
+-31.25,148.25,Vulnerable,4
+-31.25,148.75,Endangered,2
+-31.25,148.75,Vulnerable,93
+-31.25,149.25,Critically Endangered,44
+-31.25,149.25,Endangered,28
+-31.25,149.25,Vulnerable,206
+-31.25,149.75,Endangered,6
+-31.25,149.75,Vulnerable,18
+-31.25,150.25,Critically Endangered,2
+-31.25,150.25,Endangered,6
+-31.25,150.25,Vulnerable,85
+-31.25,150.75,Critically Endangered,1
+-31.25,150.75,Endangered,8
+-31.25,150.75,Vulnerable,191
+-31.25,151.25,Critically Endangered,254
+-31.25,151.25,Endangered,1237
+-31.25,151.25,Vulnerable,224
+-31.25,151.75,Critically Endangered,23
+-31.25,151.75,Endangered,938
+-31.25,151.75,Vulnerable,70
+-31.25,152.25,Critically Endangered,86
+-31.25,152.25,Endangered,1492
+-31.25,152.25,Vulnerable,2055
+-31.25,152.75,Critically Endangered,883
+-31.25,152.75,Endangered,152
+-31.25,152.75,Vulnerable,3062
+-31.25,153.25,Critically Endangered,2
+-31.25,153.25,Endangered,13
+-31.25,153.25,Vulnerable,192
+-30.75,114.75,Vulnerable,9
+-30.75,115.25,Critically Endangered,8
+-30.75,115.25,Endangered,73
+-30.75,115.25,Vulnerable,188
+-30.75,115.75,Critically Endangered,1
+-30.75,115.75,Endangered,47
+-30.75,115.75,Vulnerable,3
+-30.75,116.25,Critically Endangered,3
+-30.75,116.25,Endangered,84
+-30.75,116.25,Vulnerable,5
+-30.75,116.75,Critically Endangered,1
+-30.75,116.75,Endangered,43
+-30.75,116.75,Vulnerable,13
+-30.75,117.25,Critically Endangered,1
+-30.75,117.75,Endangered,1
+-30.75,118.25,Endangered,7
+-30.75,118.25,Vulnerable,10
+-30.75,118.75,Endangered,4
+-30.75,118.75,Vulnerable,8
+-30.75,119.25,Vulnerable,2
+-30.75,119.75,Vulnerable,1
+-30.75,120.25,Vulnerable,1
+-30.75,121.25,Endangered,1
+-30.75,121.75,Vulnerable,7
+-30.75,122.75,Vulnerable,1
+-30.75,123.75,Vulnerable,1
+-30.75,124.75,Vulnerable,2
+-30.75,132.25,Critically Endangered,1
+-30.75,132.25,Endangered,12
+-30.75,132.25,Vulnerable,4
+-30.75,133.75,Vulnerable,2424
+-30.75,134.25,Vulnerable,1324
+-30.75,135.25,Vulnerable,7
+-30.75,135.75,Critically Endangered,1
+-30.75,135.75,Endangered,2
+-30.75,135.75,Vulnerable,12
+-30.75,136.75,Vulnerable,18
+-30.75,137.25,Vulnerable,1
+-30.75,138.25,Critically Endangered,1
+-30.75,138.25,Endangered,1
+-30.75,138.25,Vulnerable,55
+-30.75,138.75,Vulnerable,97
+-30.75,139.25,Endangered,5
+-30.75,139.25,Vulnerable,218
+-30.75,141.75,Endangered,1
+-30.75,141.75,Vulnerable,10
+-30.75,142.25,Endangered,1
+-30.75,142.25,Vulnerable,27
+-30.75,142.75,Critically Endangered,1
+-30.75,142.75,Endangered,1
+-30.75,142.75,Vulnerable,23
+-30.75,143.25,Endangered,11
+-30.75,143.25,Vulnerable,63
+-30.75,143.75,Endangered,4
+-30.75,143.75,Vulnerable,13
+-30.75,144.25,Endangered,1
+-30.75,144.25,Vulnerable,1
+-30.75,144.75,Endangered,9
+-30.75,144.75,Vulnerable,7
+-30.75,145.75,Endangered,10
+-30.75,145.75,Vulnerable,207
+-30.75,146.25,Endangered,6
+-30.75,146.25,Vulnerable,16
+-30.75,146.75,Endangered,2
+-30.75,146.75,Vulnerable,14
+-30.75,147.25,Endangered,28
+-30.75,147.25,Vulnerable,44
+-30.75,147.75,Endangered,65
+-30.75,147.75,Vulnerable,131
+-30.75,148.75,Vulnerable,46
+-30.75,149.25,Critically Endangered,13
+-30.75,149.25,Endangered,136
+-30.75,149.25,Vulnerable,492
+-30.75,149.75,Endangered,1061
+-30.75,149.75,Vulnerable,853
+-30.75,150.25,Critically Endangered,17
+-30.75,150.25,Endangered,593
+-30.75,150.25,Vulnerable,760
+-30.75,150.75,Endangered,18
+-30.75,150.75,Vulnerable,152
+-30.75,151.25,Critically Endangered,319
+-30.75,151.25,Endangered,3317
+-30.75,151.25,Vulnerable,106
+-30.75,151.75,Critically Endangered,326
+-30.75,151.75,Endangered,79
+-30.75,151.75,Vulnerable,696
+-30.75,152.25,Critically Endangered,107
+-30.75,152.25,Endangered,3417
+-30.75,152.25,Vulnerable,695
+-30.75,152.75,Critically Endangered,971
+-30.75,152.75,Endangered,1026
+-30.75,152.75,Vulnerable,997
+-30.75,153.25,Critically Endangered,385
+-30.75,153.25,Endangered,108
+-30.75,153.25,Vulnerable,1559
+-30.25,114.75,Endangered,15
+-30.25,114.75,Vulnerable,11
+-30.25,115.25,Critically Endangered,3
+-30.25,115.25,Endangered,173
+-30.25,115.25,Vulnerable,130
+-30.25,115.75,Endangered,33
+-30.25,115.75,Vulnerable,22
+-30.25,116.25,Endangered,20
+-30.25,116.25,Vulnerable,6
+-30.25,116.75,Endangered,4
+-30.25,117.25,Endangered,3
+-30.25,117.25,Vulnerable,1
+-30.25,117.75,Critically Endangered,1
+-30.25,117.75,Endangered,1
+-30.25,117.75,Vulnerable,17
+-30.25,118.25,Vulnerable,4
+-30.25,118.75,Vulnerable,2
+-30.25,119.75,Vulnerable,2
+-30.25,120.75,Vulnerable,9
+-30.25,121.25,Vulnerable,1
+-30.25,123.25,Vulnerable,3
+-30.25,125.75,Vulnerable,2
+-30.25,134.75,Critically Endangered,2
+-30.25,135.25,Critically Endangered,2
+-30.25,135.25,Vulnerable,37
+-30.25,135.75,Vulnerable,4
+-30.25,136.75,Endangered,306
+-30.25,136.75,Vulnerable,915
+-30.25,137.25,Vulnerable,3
+-30.25,137.75,Vulnerable,5
+-30.25,138.25,Vulnerable,104
+-30.25,138.75,Vulnerable,26
+-30.25,139.25,Endangered,37
+-30.25,139.25,Vulnerable,405
+-30.25,139.75,Vulnerable,4
+-30.25,141.75,Endangered,4
+-30.25,141.75,Vulnerable,6
+-30.25,142.25,Endangered,4
+-30.25,142.25,Vulnerable,9
+-30.25,142.75,Endangered,6
+-30.25,142.75,Vulnerable,4
+-30.25,143.75,Vulnerable,1
+-30.25,144.25,Vulnerable,1
+-30.25,144.75,Endangered,2
+-30.25,144.75,Vulnerable,3
+-30.25,145.25,Endangered,9
+-30.25,145.25,Vulnerable,13
+-30.25,145.75,Critically Endangered,1
+-30.25,145.75,Endangered,26
+-30.25,145.75,Vulnerable,101
+-30.25,146.25,Endangered,3
+-30.25,146.25,Vulnerable,5
+-30.25,146.75,Endangered,1
+-30.25,146.75,Vulnerable,6
+-30.25,147.25,Endangered,1
+-30.25,147.25,Vulnerable,2
+-30.25,147.75,Vulnerable,25
+-30.25,148.25,Vulnerable,12
+-30.25,148.75,Endangered,232
+-30.25,148.75,Vulnerable,30
+-30.25,149.25,Critically Endangered,48
+-30.25,149.25,Endangered,652
+-30.25,149.25,Vulnerable,12
+-30.25,149.75,Endangered,130
+-30.25,149.75,Vulnerable,343
+-30.25,150.25,Critically Endangered,673
+-30.25,150.25,Endangered,267
+-30.25,150.25,Vulnerable,643
+-30.25,150.75,Critically Endangered,3
+-30.25,150.75,Endangered,35
+-30.25,150.75,Vulnerable,452
+-30.25,151.25,Critically Endangered,2
+-30.25,151.25,Endangered,841
+-30.25,151.25,Vulnerable,380
+-30.25,151.75,Critically Endangered,21
+-30.25,151.75,Endangered,332
+-30.25,151.75,Vulnerable,346
+-30.25,152.25,Critically Endangered,166
+-30.25,152.25,Endangered,2515
+-30.25,152.25,Vulnerable,328
+-30.25,152.75,Critically Endangered,1002
+-30.25,152.75,Endangered,448
+-30.25,152.75,Vulnerable,1139
+-30.25,153.25,Critically Endangered,985
+-30.25,153.25,Endangered,187
+-30.25,153.25,Vulnerable,3034
+-30.25,153.75,Vulnerable,4
+-29.75,114.75,Endangered,2
+-29.75,114.75,Vulnerable,2
+-29.75,115.25,Critically Endangered,3
+-29.75,115.25,Endangered,40
+-29.75,115.25,Vulnerable,12
+-29.75,115.75,Endangered,15
+-29.75,115.75,Vulnerable,7
+-29.75,116.25,Critically Endangered,2
+-29.75,116.25,Endangered,13
+-29.75,116.25,Vulnerable,2
+-29.75,116.75,Critically Endangered,2
+-29.75,116.75,Vulnerable,12
+-29.75,117.25,Endangered,16055
+-29.75,117.25,Vulnerable,4806
+-29.75,117.75,Critically Endangered,1
+-29.75,117.75,Endangered,5932
+-29.75,117.75,Vulnerable,1062
+-29.75,119.75,Critically Endangered,1
+-29.75,119.75,Vulnerable,1
+-29.75,120.25,Vulnerable,1
+-29.75,120.75,Vulnerable,1
+-29.75,121.25,Vulnerable,11
+-29.75,121.75,Vulnerable,1
+-29.75,125.75,Vulnerable,1
+-29.75,135.25,Critically Endangered,1
+-29.75,135.25,Vulnerable,24
+-29.75,135.75,Vulnerable,1
+-29.75,136.25,Vulnerable,2
+-29.75,137.25,Vulnerable,8
+-29.75,137.75,Vulnerable,7
+-29.75,138.25,Vulnerable,13
+-29.75,140.25,Vulnerable,4
+-29.75,140.75,Vulnerable,3
+-29.75,141.25,Vulnerable,11
+-29.75,141.75,Vulnerable,9
+-29.75,142.25,Critically Endangered,1
+-29.75,142.25,Endangered,1
+-29.75,142.25,Vulnerable,2
+-29.75,142.75,Endangered,6
+-29.75,142.75,Vulnerable,17
+-29.75,143.25,Endangered,2
+-29.75,143.25,Vulnerable,4
+-29.75,143.75,Endangered,1
+-29.75,143.75,Vulnerable,1
+-29.75,144.25,Critically Endangered,1
+-29.75,144.25,Endangered,4
+-29.75,144.25,Vulnerable,2
+-29.75,144.75,Endangered,3
+-29.75,145.25,Endangered,4
+-29.75,145.25,Vulnerable,6
+-29.75,145.75,Critically Endangered,2
+-29.75,145.75,Endangered,5
+-29.75,145.75,Vulnerable,81
+-29.75,146.25,Vulnerable,1
+-29.75,146.75,Endangered,3
+-29.75,146.75,Vulnerable,8
+-29.75,147.25,Endangered,11
+-29.75,147.25,Vulnerable,21
+-29.75,147.75,Endangered,3
+-29.75,147.75,Vulnerable,1
+-29.75,148.25,Vulnerable,1
+-29.75,149.25,Endangered,1
+-29.75,149.25,Vulnerable,7
+-29.75,149.75,Endangered,3
+-29.75,149.75,Vulnerable,599
+-29.75,150.25,Endangered,2
+-29.75,150.25,Vulnerable,19
+-29.75,150.75,Endangered,7
+-29.75,150.75,Vulnerable,89
+-29.75,151.25,Critically Endangered,4
+-29.75,151.25,Endangered,74
+-29.75,151.25,Vulnerable,1925
+-29.75,151.75,Endangered,287
+-29.75,151.75,Vulnerable,87
+-29.75,152.25,Critically Endangered,12
+-29.75,152.25,Endangered,3643
+-29.75,152.25,Vulnerable,347
+-29.75,152.75,Critically Endangered,42
+-29.75,152.75,Endangered,267
+-29.75,152.75,Vulnerable,969
+-29.75,153.25,Critically Endangered,260
+-29.75,153.25,Endangered,1464
+-29.75,153.25,Vulnerable,2334
+-29.75,153.75,Endangered,9
+-29.75,153.75,Vulnerable,9
+-29.25,114.25,Vulnerable,8
+-29.25,114.75,Endangered,2
+-29.25,114.75,Vulnerable,4
+-29.25,115.25,Endangered,22
+-29.25,115.25,Vulnerable,6
+-29.25,115.75,Critically Endangered,4
+-29.25,115.75,Endangered,18
+-29.25,116.25,Endangered,3
+-29.25,116.25,Vulnerable,22
+-29.25,116.75,Endangered,2
+-29.25,116.75,Vulnerable,59
+-29.25,117.25,Endangered,2
+-29.25,117.25,Vulnerable,47
+-29.25,117.75,Critically Endangered,1
+-29.25,117.75,Endangered,2
+-29.25,117.75,Vulnerable,65
+-29.25,118.25,Vulnerable,13
+-29.25,120.25,Vulnerable,2
+-29.25,121.25,Vulnerable,1
+-29.25,121.75,Vulnerable,2
+-29.25,122.25,Vulnerable,2
+-29.25,122.75,Critically Endangered,2
+-29.25,122.75,Vulnerable,1
+-29.25,124.75,Critically Endangered,1
+-29.25,127.25,Endangered,1
+-29.25,134.75,Vulnerable,31
+-29.25,135.25,Vulnerable,22
+-29.25,136.75,Vulnerable,7
+-29.25,137.25,Endangered,2
+-29.25,137.25,Vulnerable,17
+-29.25,137.75,Endangered,1
+-29.25,138.25,Vulnerable,12
+-29.25,139.75,Vulnerable,4
+-29.25,140.25,Vulnerable,13
+-29.25,140.75,Vulnerable,21
+-29.25,141.25,Vulnerable,602
+-29.25,141.75,Critically Endangered,2
+-29.25,141.75,Vulnerable,115
+-29.25,142.25,Critically Endangered,1
+-29.25,142.25,Endangered,2
+-29.25,142.25,Vulnerable,192
+-29.25,142.75,Critically Endangered,2
+-29.25,142.75,Endangered,72
+-29.25,142.75,Vulnerable,69
+-29.25,143.25,Endangered,2
+-29.25,143.25,Vulnerable,6
+-29.25,143.75,Endangered,1
+-29.25,143.75,Vulnerable,3
+-29.25,144.75,Endangered,15
+-29.25,144.75,Vulnerable,4
+-29.25,145.25,Endangered,44
+-29.25,145.25,Vulnerable,17
+-29.25,145.75,Endangered,1
+-29.25,146.25,Endangered,2
+-29.25,146.25,Vulnerable,10
+-29.25,146.75,Endangered,5
+-29.25,147.25,Endangered,4
+-29.25,147.75,Endangered,3
+-29.25,147.75,Vulnerable,19
+-29.25,148.25,Vulnerable,5
+-29.25,148.75,Endangered,1
+-29.25,148.75,Vulnerable,8
+-29.25,149.25,Endangered,88
+-29.25,149.25,Vulnerable,149
+-29.25,149.75,Vulnerable,20
+-29.25,150.25,Endangered,1
+-29.25,150.25,Vulnerable,359
+-29.25,150.75,Endangered,252
+-29.25,150.75,Vulnerable,34
+-29.25,151.25,Critically Endangered,15
+-29.25,151.25,Endangered,1326
+-29.25,151.25,Vulnerable,83
+-29.25,151.75,Critically Endangered,213
+-29.25,151.75,Endangered,6005
+-29.25,151.75,Vulnerable,766
+-29.25,152.25,Critically Endangered,95
+-29.25,152.25,Endangered,623
+-29.25,152.25,Vulnerable,396
+-29.25,152.75,Critically Endangered,16
+-29.25,152.75,Endangered,2552
+-29.25,152.75,Vulnerable,1218
+-29.25,153.25,Critically Endangered,462
+-29.25,153.25,Endangered,171
+-29.25,153.25,Vulnerable,1678
+-29.25,153.75,Endangered,18
+-29.25,153.75,Vulnerable,29
+-28.75,113.75,Endangered,65
+-28.75,113.75,Vulnerable,154
+-28.75,114.25,Endangered,25
+-28.75,114.25,Vulnerable,77
+-28.75,114.75,Endangered,51
+-28.75,114.75,Vulnerable,78
+-28.75,115.25,Endangered,5
+-28.75,115.25,Vulnerable,2
+-28.75,115.75,Critically Endangered,4
+-28.75,115.75,Endangered,9
+-28.75,115.75,Vulnerable,8
+-28.75,116.25,Endangered,2
+-28.75,116.25,Vulnerable,10
+-28.75,117.25,Vulnerable,6
+-28.75,117.75,Vulnerable,29
+-28.75,119.75,Critically Endangered,1
+-28.75,119.75,Vulnerable,1
+-28.75,120.25,Vulnerable,1
+-28.75,121.25,Vulnerable,5
+-28.75,121.75,Critically Endangered,1
+-28.75,121.75,Vulnerable,1
+-28.75,122.25,Endangered,1
+-28.75,122.25,Vulnerable,12
+-28.75,122.75,Vulnerable,4
+-28.75,134.25,Vulnerable,9
+-28.75,134.75,Endangered,2
+-28.75,134.75,Vulnerable,14
+-28.75,136.25,Vulnerable,3
+-28.75,136.75,Vulnerable,1
+-28.75,138.75,Vulnerable,6
+-28.75,140.25,Vulnerable,9
+-28.75,140.75,Vulnerable,5
+-28.75,141.25,Vulnerable,24
+-28.75,141.75,Vulnerable,2
+-28.75,142.25,Critically Endangered,1
+-28.75,142.25,Endangered,2
+-28.75,142.25,Vulnerable,7
+-28.75,142.75,Vulnerable,4
+-28.75,143.75,Endangered,7
+-28.75,143.75,Vulnerable,28
+-28.75,144.25,Endangered,15
+-28.75,144.25,Vulnerable,43
+-28.75,144.75,Endangered,7
+-28.75,144.75,Vulnerable,4
+-28.75,145.75,Endangered,1
+-28.75,146.75,Endangered,2
+-28.75,146.75,Vulnerable,2
+-28.75,147.25,Vulnerable,2
+-28.75,147.75,Vulnerable,1
+-28.75,149.25,Endangered,21
+-28.75,149.25,Vulnerable,8
+-28.75,149.75,Vulnerable,1
+-28.75,150.25,Vulnerable,103
+-28.75,150.75,Critically Endangered,1020
+-28.75,150.75,Endangered,23
+-28.75,150.75,Vulnerable,95
+-28.75,151.25,Endangered,36
+-28.75,151.25,Vulnerable,235
+-28.75,151.75,Critically Endangered,26
+-28.75,151.75,Endangered,217
+-28.75,151.75,Vulnerable,955
+-28.75,152.25,Critically Endangered,26
+-28.75,152.25,Endangered,65
+-28.75,152.25,Vulnerable,284
+-28.75,152.75,Critically Endangered,246
+-28.75,152.75,Endangered,50
+-28.75,152.75,Vulnerable,288
+-28.75,153.25,Critically Endangered,403
+-28.75,153.25,Endangered,545
+-28.75,153.25,Vulnerable,3919
+-28.75,153.75,Critically Endangered,1917
+-28.75,153.75,Endangered,268
+-28.75,153.75,Vulnerable,10438
+-28.25,113.75,Critically Endangered,1
+-28.25,113.75,Endangered,36
+-28.25,113.75,Vulnerable,201
+-28.25,114.25,Critically Endangered,14
+-28.25,114.25,Endangered,16
+-28.25,114.25,Vulnerable,84
+-28.25,114.75,Critically Endangered,1
+-28.25,114.75,Endangered,16
+-28.25,114.75,Vulnerable,4
+-28.25,115.75,Vulnerable,17
+-28.25,116.25,Critically Endangered,1
+-28.25,116.25,Vulnerable,6
+-28.25,116.75,Vulnerable,16
+-28.25,117.25,Vulnerable,6
+-28.25,117.75,Vulnerable,32
+-28.25,118.25,Vulnerable,7
+-28.25,119.25,Vulnerable,4
+-28.25,121.75,Vulnerable,1
+-28.25,122.25,Vulnerable,3
+-28.25,123.75,Vulnerable,3
+-28.25,127.75,Vulnerable,1
+-28.25,134.75,Vulnerable,3
+-28.25,135.25,Vulnerable,2
+-28.25,138.25,Vulnerable,2
+-28.25,138.75,Endangered,1
+-28.25,138.75,Vulnerable,38
+-28.25,140.25,Vulnerable,1
+-28.25,142.25,Vulnerable,3
+-28.25,143.75,Endangered,1
+-28.25,143.75,Vulnerable,4
+-28.25,144.25,Critically Endangered,2
+-28.25,144.25,Endangered,22
+-28.25,144.25,Vulnerable,110
+-28.25,144.75,Endangered,2
+-28.25,144.75,Vulnerable,4
+-28.25,145.25,Endangered,4
+-28.25,145.25,Vulnerable,76
+-28.25,145.75,Endangered,6
+-28.25,145.75,Vulnerable,53
+-28.25,146.25,Endangered,4
+-28.25,146.25,Vulnerable,27
+-28.25,146.75,Vulnerable,1
+-28.25,147.25,Endangered,4
+-28.25,147.25,Vulnerable,2
+-28.25,148.75,Endangered,3
+-28.25,148.75,Vulnerable,15
+-28.25,149.25,Vulnerable,1
+-28.25,149.75,Vulnerable,9
+-28.25,150.25,Vulnerable,4
+-28.25,150.75,Vulnerable,3
+-28.25,151.25,Critically Endangered,6
+-28.25,151.25,Endangered,12
+-28.25,151.25,Vulnerable,291
+-28.25,151.75,Critically Endangered,62
+-28.25,151.75,Endangered,11
+-28.25,151.75,Vulnerable,455
+-28.25,152.25,Critically Endangered,40
+-28.25,152.25,Endangered,178
+-28.25,152.25,Vulnerable,113
+-28.25,152.75,Critically Endangered,37
+-28.25,152.75,Endangered,207
+-28.25,152.75,Vulnerable,331
+-28.25,153.25,Critically Endangered,1336
+-28.25,153.25,Endangered,1269
+-28.25,153.25,Vulnerable,3859
+-28.25,153.75,Critically Endangered,337
+-28.25,153.75,Endangered,255
+-28.25,153.75,Vulnerable,1049
+-27.75,113.25,Vulnerable,2
+-27.75,113.75,Vulnerable,2
+-27.75,114.25,Critically Endangered,2
+-27.75,114.25,Endangered,48
+-27.75,114.25,Vulnerable,29
+-27.75,114.75,Endangered,11
+-27.75,114.75,Vulnerable,25
+-27.75,116.25,Vulnerable,2
+-27.75,116.75,Vulnerable,9
+-27.75,117.25,Vulnerable,5
+-27.75,117.75,Vulnerable,25
+-27.75,118.25,Vulnerable,2
+-27.75,118.75,Vulnerable,23
+-27.75,119.25,Vulnerable,11
+-27.75,119.75,Vulnerable,3
+-27.75,120.75,Critically Endangered,1
+-27.75,122.25,Vulnerable,1
+-27.75,123.75,Vulnerable,4
+-27.75,133.75,Vulnerable,3
+-27.75,134.25,Endangered,40
+-27.75,134.25,Vulnerable,3
+-27.75,134.75,Endangered,46
+-27.75,134.75,Vulnerable,4
+-27.75,135.25,Vulnerable,6
+-27.75,135.75,Vulnerable,1
+-27.75,137.75,Vulnerable,1
+-27.75,138.25,Endangered,1
+-27.75,138.25,Vulnerable,40
+-27.75,138.75,Critically Endangered,2
+-27.75,138.75,Vulnerable,128
+-27.75,140.25,Vulnerable,1
+-27.75,140.75,Vulnerable,6
+-27.75,141.25,Vulnerable,2
+-27.75,141.75,Vulnerable,7
+-27.75,142.75,Vulnerable,8
+-27.75,143.75,Endangered,2
+-27.75,143.75,Vulnerable,83
+-27.75,144.25,Endangered,2
+-27.75,144.75,Endangered,4
+-27.75,144.75,Vulnerable,5
+-27.75,145.25,Vulnerable,1
+-27.75,145.75,Endangered,64
+-27.75,145.75,Vulnerable,294
+-27.75,146.25,Endangered,7
+-27.75,146.25,Vulnerable,34
+-27.75,146.75,Endangered,1
+-27.75,146.75,Vulnerable,12
+-27.75,147.25,Endangered,2
+-27.75,147.25,Vulnerable,1
+-27.75,147.75,Endangered,2
+-27.75,147.75,Vulnerable,3
+-27.75,148.25,Endangered,3
+-27.75,148.75,Vulnerable,4
+-27.75,150.25,Vulnerable,1
+-27.75,150.75,Endangered,5
+-27.75,150.75,Vulnerable,144
+-27.75,151.25,Endangered,9
+-27.75,151.25,Vulnerable,17
+-27.75,151.75,Critically Endangered,248
+-27.75,151.75,Endangered,10
+-27.75,151.75,Vulnerable,299
+-27.75,152.25,Critically Endangered,45
+-27.75,152.25,Endangered,160
+-27.75,152.25,Vulnerable,386
+-27.75,152.75,Critically Endangered,137
+-27.75,152.75,Endangered,84
+-27.75,152.75,Vulnerable,1757
+-27.75,153.25,Critically Endangered,1301
+-27.75,153.25,Endangered,384
+-27.75,153.25,Vulnerable,2574
+-27.75,153.75,Critically Endangered,3
+-27.75,153.75,Endangered,66
+-27.75,153.75,Vulnerable,488
+-27.25,112.75,Vulnerable,7
+-27.25,113.25,Vulnerable,1
+-27.25,113.75,Vulnerable,1
+-27.25,114.25,Endangered,2
+-27.25,114.25,Vulnerable,2
+-27.25,114.75,Endangered,1
+-27.25,114.75,Vulnerable,10
+-27.25,115.75,Vulnerable,7
+-27.25,116.25,Endangered,1
+-27.25,116.25,Vulnerable,54
+-27.25,116.75,Vulnerable,1
+-27.25,117.25,Critically Endangered,1
+-27.25,117.75,Vulnerable,31
+-27.25,118.25,Critically Endangered,1
+-27.25,118.25,Endangered,1
+-27.25,118.25,Vulnerable,72
+-27.25,119.75,Vulnerable,3
+-27.25,120.25,Vulnerable,1
+-27.25,120.75,Critically Endangered,1
+-27.25,120.75,Vulnerable,8
+-27.25,132.25,Vulnerable,2
+-27.25,132.75,Vulnerable,1
+-27.25,133.25,Vulnerable,20
+-27.25,133.75,Endangered,1
+-27.25,133.75,Vulnerable,7
+-27.25,134.25,Vulnerable,1
+-27.25,134.75,Vulnerable,1
+-27.25,135.25,Vulnerable,1
+-27.25,138.75,Vulnerable,11
+-27.25,139.25,Vulnerable,3
+-27.25,139.75,Vulnerable,2
+-27.25,140.25,Vulnerable,5
+-27.25,144.25,Vulnerable,1
+-27.25,145.75,Endangered,2
+-27.25,146.75,Vulnerable,1
+-27.25,147.25,Vulnerable,1
+-27.25,148.75,Endangered,1
+-27.25,148.75,Vulnerable,3
+-27.25,149.25,Vulnerable,2
+-27.25,149.75,Endangered,3
+-27.25,149.75,Vulnerable,21
+-27.25,150.25,Vulnerable,15
+-27.25,150.75,Endangered,1
+-27.25,150.75,Vulnerable,15
+-27.25,151.25,Endangered,23
+-27.25,151.25,Vulnerable,40
+-27.25,151.75,Critically Endangered,244
+-27.25,151.75,Endangered,15
+-27.25,151.75,Vulnerable,878
+-27.25,152.25,Critically Endangered,31
+-27.25,152.25,Endangered,23
+-27.25,152.25,Vulnerable,575
+-27.25,152.75,Critically Endangered,173
+-27.25,152.75,Endangered,236
+-27.25,152.75,Vulnerable,2359
+-27.25,153.25,Critically Endangered,10392
+-27.25,153.25,Endangered,3348
+-27.25,153.25,Vulnerable,15375
+-27.25,153.75,Critically Endangered,10
+-27.25,153.75,Endangered,31
+-27.25,153.75,Vulnerable,302
+-26.75,114.25,Vulnerable,2
+-26.75,114.75,Vulnerable,6
+-26.75,115.25,Vulnerable,1
+-26.75,116.25,Endangered,2
+-26.75,116.25,Vulnerable,3
+-26.75,116.75,Vulnerable,2
+-26.75,117.25,Vulnerable,1
+-26.75,118.75,Vulnerable,3
+-26.75,120.25,Critically Endangered,1
+-26.75,120.25,Vulnerable,4
+-26.75,120.75,Vulnerable,2
+-26.75,125.75,Vulnerable,1
+-26.75,133.25,Vulnerable,3
+-26.75,134.25,Vulnerable,1
+-26.75,138.75,Vulnerable,10
+-26.75,139.25,Endangered,114
+-26.75,139.25,Vulnerable,5
+-26.75,139.75,Endangered,32
+-26.75,139.75,Vulnerable,7
+-26.75,142.75,Vulnerable,4
+-26.75,143.25,Endangered,3
+-26.75,143.25,Vulnerable,42
+-26.75,143.75,Vulnerable,13
+-26.75,144.25,Endangered,2
+-26.75,144.25,Vulnerable,23
+-26.75,145.25,Endangered,1
+-26.75,146.25,Endangered,1
+-26.75,147.25,Vulnerable,17
+-26.75,147.75,Vulnerable,1
+-26.75,148.25,Vulnerable,3
+-26.75,148.75,Vulnerable,21
+-26.75,149.25,Vulnerable,3
+-26.75,150.25,Endangered,2
+-26.75,150.25,Vulnerable,5
+-26.75,150.75,Endangered,1
+-26.75,150.75,Vulnerable,20
+-26.75,151.25,Vulnerable,7
+-26.75,151.75,Endangered,9
+-26.75,151.75,Vulnerable,145
+-26.75,152.25,Critically Endangered,6
+-26.75,152.25,Endangered,6
+-26.75,152.25,Vulnerable,49
+-26.75,152.75,Critically Endangered,360
+-26.75,152.75,Endangered,210
+-26.75,152.75,Vulnerable,1349
+-26.75,153.25,Critically Endangered,470
+-26.75,153.25,Endangered,124
+-26.75,153.25,Vulnerable,1947
+-26.75,153.75,Critically Endangered,14
+-26.75,153.75,Vulnerable,25
+-26.25,113.25,Endangered,2
+-26.25,113.25,Vulnerable,44
+-26.25,113.75,Endangered,5
+-26.25,113.75,Vulnerable,31
+-26.25,114.25,Critically Endangered,3
+-26.25,114.25,Vulnerable,50
+-26.25,114.75,Vulnerable,3
+-26.25,116.25,Endangered,1
+-26.25,118.25,Vulnerable,1
+-26.25,118.75,Vulnerable,1
+-26.25,120.75,Critically Endangered,1
+-26.25,121.25,Vulnerable,1
+-26.25,121.75,Endangered,1
+-26.25,121.75,Vulnerable,6
+-26.25,126.75,Endangered,1
+-26.25,129.25,Vulnerable,3
+-26.25,131.25,Vulnerable,4
+-26.25,132.25,Vulnerable,32
+-26.25,133.25,Vulnerable,5
+-26.25,135.25,Vulnerable,3
+-26.25,135.75,Endangered,1
+-26.25,141.25,Vulnerable,3
+-26.25,143.75,Vulnerable,4
+-26.25,145.25,Vulnerable,6
+-26.25,146.25,Endangered,4
+-26.25,146.25,Vulnerable,4
+-26.25,147.25,Endangered,1
+-26.25,147.25,Vulnerable,8
+-26.25,147.75,Endangered,1
+-26.25,147.75,Vulnerable,4
+-26.25,148.25,Vulnerable,1
+-26.25,149.75,Vulnerable,23
+-26.25,150.25,Endangered,1
+-26.25,150.25,Vulnerable,10
+-26.25,150.75,Vulnerable,3
+-26.25,151.25,Endangered,2
+-26.25,151.25,Vulnerable,16
+-26.25,151.75,Critically Endangered,1
+-26.25,151.75,Endangered,3
+-26.25,151.75,Vulnerable,33
+-26.25,152.25,Critically Endangered,3
+-26.25,152.25,Endangered,5
+-26.25,152.25,Vulnerable,38
+-26.25,152.75,Critically Endangered,219
+-26.25,152.75,Endangered,122
+-26.25,152.75,Vulnerable,932
+-26.25,153.25,Critically Endangered,65
+-26.25,153.25,Endangered,109
+-26.25,153.25,Vulnerable,541
+-25.75,112.75,Vulnerable,4
+-25.75,113.25,Critically Endangered,2
+-25.75,113.25,Endangered,10
+-25.75,113.25,Vulnerable,84
+-25.75,113.75,Critically Endangered,38
+-25.75,113.75,Endangered,1590
+-25.75,113.75,Vulnerable,13145
+-25.75,114.25,Critically Endangered,2
+-25.75,114.25,Endangered,104
+-25.75,114.25,Vulnerable,1358
+-25.75,118.75,Critically Endangered,2
+-25.75,118.75,Endangered,3
+-25.75,118.75,Vulnerable,8
+-25.75,119.25,Vulnerable,2
+-25.75,120.25,Vulnerable,3
+-25.75,122.25,Vulnerable,2
+-25.75,122.75,Vulnerable,3
+-25.75,127.25,Critically Endangered,1
+-25.75,127.25,Vulnerable,2
+-25.75,132.25,Vulnerable,3
+-25.75,133.25,Vulnerable,7
+-25.75,133.75,Vulnerable,1
+-25.75,134.25,Vulnerable,1
+-25.75,138.75,Vulnerable,1
+-25.75,139.25,Vulnerable,44
+-25.75,139.75,Vulnerable,1
+-25.75,140.25,Vulnerable,6
+-25.75,140.75,Vulnerable,17
+-25.75,141.25,Vulnerable,1
+-25.75,144.25,Vulnerable,1
+-25.75,145.25,Vulnerable,4
+-25.75,145.75,Vulnerable,2
+-25.75,146.75,Vulnerable,1
+-25.75,147.75,Vulnerable,1
+-25.75,148.75,Vulnerable,5
+-25.75,149.25,Vulnerable,1
+-25.75,149.75,Vulnerable,10
+-25.75,150.25,Vulnerable,2
+-25.75,150.75,Vulnerable,1
+-25.75,151.25,Critically Endangered,2
+-25.75,151.25,Endangered,1
+-25.75,151.25,Vulnerable,9
+-25.75,151.75,Critically Endangered,3
+-25.75,151.75,Vulnerable,14
+-25.75,152.25,Critically Endangered,9
+-25.75,152.25,Endangered,22
+-25.75,152.25,Vulnerable,18
+-25.75,152.75,Critically Endangered,734
+-25.75,152.75,Endangered,528
+-25.75,152.75,Vulnerable,1255
+-25.75,153.25,Critically Endangered,672
+-25.75,153.25,Endangered,110
+-25.75,153.25,Vulnerable,1113
+-25.25,112.75,Vulnerable,9
+-25.25,113.25,Endangered,1
+-25.25,113.25,Vulnerable,4
+-25.25,113.75,Critically Endangered,3
+-25.25,113.75,Endangered,2
+-25.25,113.75,Vulnerable,9
+-25.25,114.25,Vulnerable,2
+-25.25,114.75,Vulnerable,1
+-25.25,119.75,Vulnerable,2
+-25.25,124.25,Vulnerable,1
+-25.25,130.75,Critically Endangered,4
+-25.25,130.75,Vulnerable,24
+-25.25,131.25,Endangered,1
+-25.25,131.25,Vulnerable,24
+-25.25,131.75,Vulnerable,10
+-25.25,132.25,Vulnerable,19
+-25.25,132.75,Vulnerable,1
+-25.25,133.25,Vulnerable,15
+-25.25,135.75,Vulnerable,2
+-25.25,138.75,Vulnerable,2
+-25.25,139.25,Vulnerable,1
+-25.25,141.25,Vulnerable,3
+-25.25,141.75,Vulnerable,5
+-25.25,142.25,Endangered,1
+-25.25,142.75,Endangered,4
+-25.25,142.75,Vulnerable,5
+-25.25,143.25,Endangered,6
+-25.25,145.25,Vulnerable,1
+-25.25,146.25,Vulnerable,3
+-25.25,146.75,Vulnerable,1
+-25.25,147.75,Vulnerable,5
+-25.25,148.25,Critically Endangered,2
+-25.25,148.25,Endangered,12
+-25.25,148.25,Vulnerable,23
+-25.25,148.75,Critically Endangered,4
+-25.25,148.75,Vulnerable,8
+-25.25,149.25,Vulnerable,10
+-25.25,149.75,Endangered,3
+-25.25,149.75,Vulnerable,11
+-25.25,150.25,Vulnerable,2
+-25.25,150.75,Endangered,1
+-25.25,151.25,Endangered,1
+-25.25,151.25,Vulnerable,2
+-25.25,151.75,Endangered,4
+-25.25,151.75,Vulnerable,7
+-25.25,152.25,Critically Endangered,2
+-25.25,152.25,Endangered,15
+-25.25,152.25,Vulnerable,26
+-25.25,152.75,Critically Endangered,354
+-25.25,152.75,Endangered,81
+-25.25,152.75,Vulnerable,839
+-25.25,153.25,Critically Endangered,14
+-25.25,153.25,Endangered,15
+-25.25,153.25,Vulnerable,138
+-24.75,113.25,Endangered,1
+-24.75,113.25,Vulnerable,1
+-24.75,113.75,Critically Endangered,48
+-24.75,113.75,Endangered,81
+-24.75,113.75,Vulnerable,203
+-24.75,114.25,Endangered,5
+-24.75,115.25,Critically Endangered,1
+-24.75,115.25,Endangered,3
+-24.75,125.25,Vulnerable,1
+-24.75,128.75,Vulnerable,1
+-24.75,129.75,Vulnerable,1
+-24.75,132.25,Vulnerable,6
+-24.75,132.75,Vulnerable,3
+-24.75,133.25,Vulnerable,7
+-24.75,133.75,Vulnerable,1
+-24.75,135.25,Vulnerable,1
+-24.75,137.75,Vulnerable,1
+-24.75,139.75,Critically Endangered,2
+-24.75,139.75,Endangered,3
+-24.75,139.75,Vulnerable,9
+-24.75,140.25,Vulnerable,2
+-24.75,140.75,Endangered,1
+-24.75,140.75,Vulnerable,1
+-24.75,143.75,Vulnerable,1
+-24.75,144.25,Vulnerable,2
+-24.75,144.75,Vulnerable,5
+-24.75,146.25,Vulnerable,1
+-24.75,147.25,Vulnerable,1
+-24.75,147.75,Endangered,1
+-24.75,147.75,Vulnerable,2
+-24.75,148.25,Vulnerable,1
+-24.75,148.75,Vulnerable,6
+-24.75,149.75,Critically Endangered,1
+-24.75,149.75,Endangered,2
+-24.75,149.75,Vulnerable,3
+-24.75,150.25,Endangered,4
+-24.75,150.75,Vulnerable,6
+-24.75,151.25,Endangered,16
+-24.75,151.25,Vulnerable,17
+-24.75,151.75,Endangered,22
+-24.75,151.75,Vulnerable,37
+-24.75,152.25,Critically Endangered,813
+-24.75,152.25,Endangered,324
+-24.75,152.25,Vulnerable,1045
+-24.75,152.75,Vulnerable,1
+-24.75,153.25,Critically Endangered,4
+-24.75,153.25,Endangered,2
+-24.75,153.25,Vulnerable,36
+-24.25,113.25,Endangered,1
+-24.25,113.25,Vulnerable,16
+-24.25,116.75,Vulnerable,2
+-24.25,117.25,Vulnerable,1
+-24.25,128.75,Vulnerable,1
+-24.25,131.75,Critically Endangered,2
+-24.25,131.75,Vulnerable,82
+-24.25,132.75,Vulnerable,17
+-24.25,133.25,Vulnerable,19
+-24.25,133.75,Vulnerable,4
+-24.25,134.25,Vulnerable,31
+-24.25,134.75,Vulnerable,1
+-24.25,139.25,Vulnerable,6
+-24.25,139.75,Endangered,1
+-24.25,140.25,Endangered,3
+-24.25,140.25,Vulnerable,2
+-24.25,140.75,Endangered,1
+-24.25,140.75,Vulnerable,20
+-24.25,141.25,Vulnerable,1
+-24.25,143.25,Endangered,1
+-24.25,143.25,Vulnerable,7
+-24.25,145.25,Vulnerable,2
+-24.25,148.25,Endangered,4
+-24.25,148.75,Critically Endangered,1
+-24.25,148.75,Vulnerable,1
+-24.25,150.25,Endangered,6
+-24.25,150.25,Vulnerable,2
+-24.25,150.75,Endangered,19
+-24.25,150.75,Vulnerable,35
+-24.25,151.25,Critically Endangered,8
+-24.25,151.25,Endangered,20
+-24.25,151.25,Vulnerable,17
+-24.25,151.75,Critically Endangered,41
+-24.25,151.75,Endangered,365
+-24.25,151.75,Vulnerable,338
+-24.25,152.25,Endangered,4
+-24.25,152.25,Vulnerable,3
+-24.25,152.75,Critically Endangered,1
+-24.25,152.75,Endangered,13
+-24.25,152.75,Vulnerable,663
+-23.75,113.25,Vulnerable,7
+-23.75,114.25,Endangered,1
+-23.75,119.25,Vulnerable,3
+-23.75,119.75,Critically Endangered,1
+-23.75,119.75,Endangered,6
+-23.75,119.75,Vulnerable,6
+-23.75,128.75,Vulnerable,2
+-23.75,129.25,Vulnerable,2
+-23.75,131.75,Vulnerable,2
+-23.75,132.75,Critically Endangered,71
+-23.75,132.75,Vulnerable,453
+-23.75,133.25,Vulnerable,342
+-23.75,133.75,Critically Endangered,12
+-23.75,133.75,Endangered,203
+-23.75,133.75,Vulnerable,411
+-23.75,134.25,Vulnerable,112
+-23.75,134.75,Vulnerable,2
+-23.75,138.75,Critically Endangered,1
+-23.75,138.75,Endangered,1
+-23.75,138.75,Vulnerable,6
+-23.75,139.75,Vulnerable,9
+-23.75,140.25,Endangered,1
+-23.75,140.25,Vulnerable,2
+-23.75,140.75,Vulnerable,5
+-23.75,141.25,Critically Endangered,1
+-23.75,141.25,Vulnerable,24
+-23.75,141.75,Vulnerable,2
+-23.75,142.75,Vulnerable,1
+-23.75,145.25,Vulnerable,8
+-23.75,148.25,Critically Endangered,1
+-23.75,148.25,Endangered,2
+-23.75,148.75,Vulnerable,2
+-23.75,149.25,Endangered,10
+-23.75,149.25,Vulnerable,7
+-23.75,149.75,Endangered,1
+-23.75,149.75,Vulnerable,1
+-23.75,150.25,Endangered,9
+-23.75,150.25,Vulnerable,18
+-23.75,150.75,Critically Endangered,33
+-23.75,150.75,Endangered,67
+-23.75,150.75,Vulnerable,108
+-23.75,151.25,Critically Endangered,102
+-23.75,151.25,Endangered,15
+-23.75,151.25,Vulnerable,193
+-23.75,151.75,Critically Endangered,1
+-23.75,151.75,Endangered,2
+-23.75,151.75,Vulnerable,7
+-23.75,152.25,Critically Endangered,3
+-23.75,152.25,Endangered,5
+-23.75,152.25,Vulnerable,140
+-23.25,113.25,Vulnerable,2
+-23.25,113.75,Critically Endangered,1
+-23.25,113.75,Endangered,10
+-23.25,113.75,Vulnerable,115
+-23.25,114.25,Vulnerable,5
+-23.25,117.25,Vulnerable,1
+-23.25,117.75,Vulnerable,2
+-23.25,118.75,Critically Endangered,1
+-23.25,119.25,Vulnerable,1
+-23.25,119.75,Critically Endangered,14
+-23.25,119.75,Endangered,4
+-23.25,119.75,Vulnerable,2
+-23.25,120.25,Vulnerable,1
+-23.25,120.75,Critically Endangered,6
+-23.25,120.75,Vulnerable,1
+-23.25,124.75,Vulnerable,1
+-23.25,128.75,Vulnerable,1
+-23.25,129.25,Vulnerable,1
+-23.25,129.75,Critically Endangered,1
+-23.25,131.25,Vulnerable,1
+-23.25,131.75,Critically Endangered,20
+-23.25,131.75,Vulnerable,5
+-23.25,132.25,Vulnerable,5
+-23.25,133.25,Vulnerable,1
+-23.25,133.75,Vulnerable,5
+-23.25,134.25,Vulnerable,1
+-23.25,134.75,Endangered,1
+-23.25,134.75,Vulnerable,4
+-23.25,139.75,Vulnerable,9
+-23.25,140.25,Vulnerable,2
+-23.25,140.75,Vulnerable,3
+-23.25,141.75,Vulnerable,27
+-23.25,142.25,Vulnerable,12
+-23.25,142.75,Critically Endangered,1
+-23.25,142.75,Vulnerable,8
+-23.25,144.25,Endangered,1
+-23.25,144.25,Vulnerable,20
+-23.25,144.75,Vulnerable,3
+-23.25,145.75,Vulnerable,1
+-23.25,146.25,Vulnerable,1
+-23.25,148.25,Endangered,3
+-23.25,148.25,Vulnerable,1
+-23.25,149.25,Endangered,5
+-23.25,149.75,Endangered,1
+-23.25,149.75,Vulnerable,3
+-23.25,150.25,Critically Endangered,2
+-23.25,150.25,Endangered,36
+-23.25,150.25,Vulnerable,419
+-23.25,150.75,Critically Endangered,80
+-23.25,150.75,Endangered,69
+-23.25,150.75,Vulnerable,529
+-23.25,151.25,Critically Endangered,3
+-23.25,151.75,Critically Endangered,2
+-23.25,151.75,Endangered,65
+-23.25,151.75,Vulnerable,608
+-23.25,152.25,Vulnerable,3
+-22.75,113.75,Critically Endangered,1
+-22.75,113.75,Endangered,8
+-22.75,113.75,Vulnerable,5043
+-22.75,114.25,Critically Endangered,2
+-22.75,114.25,Endangered,2
+-22.75,114.25,Vulnerable,31
+-22.75,114.75,Critically Endangered,1
+-22.75,114.75,Vulnerable,2
+-22.75,117.75,Vulnerable,4
+-22.75,118.25,Critically Endangered,3
+-22.75,118.75,Critically Endangered,1
+-22.75,119.25,Vulnerable,1
+-22.75,120.25,Vulnerable,1
+-22.75,126.75,Vulnerable,32
+-22.75,127.75,Vulnerable,2
+-22.75,130.75,Endangered,2
+-22.75,130.75,Vulnerable,13
+-22.75,131.25,Critically Endangered,5198
+-22.75,131.25,Endangered,1429
+-22.75,131.25,Vulnerable,576
+-22.75,131.75,Critically Endangered,1
+-22.75,131.75,Vulnerable,189
+-22.75,132.25,Vulnerable,10
+-22.75,132.75,Vulnerable,1
+-22.75,133.25,Vulnerable,30
+-22.75,134.25,Vulnerable,1
+-22.75,139.75,Endangered,1
+-22.75,139.75,Vulnerable,12
+-22.75,140.25,Vulnerable,3
+-22.75,140.75,Vulnerable,21
+-22.75,141.25,Vulnerable,1
+-22.75,141.75,Vulnerable,8
+-22.75,142.25,Vulnerable,37
+-22.75,142.75,Vulnerable,165
+-22.75,143.25,Vulnerable,7
+-22.75,144.25,Vulnerable,1
+-22.75,145.25,Endangered,45
+-22.75,145.25,Vulnerable,4
+-22.75,145.75,Endangered,50
+-22.75,145.75,Vulnerable,13
+-22.75,147.25,Vulnerable,3
+-22.75,147.75,Critically Endangered,1
+-22.75,147.75,Vulnerable,3
+-22.75,148.25,Vulnerable,1
+-22.75,149.25,Vulnerable,4
+-22.75,149.75,Endangered,1
+-22.75,149.75,Vulnerable,17
+-22.75,150.25,Critically Endangered,4
+-22.75,150.25,Endangered,14
+-22.75,150.25,Vulnerable,18
+-22.75,150.75,Critically Endangered,29
+-22.75,150.75,Endangered,17
+-22.75,150.75,Vulnerable,62
+-22.25,113.75,Endangered,12
+-22.25,113.75,Vulnerable,689
+-22.25,114.25,Critically Endangered,57
+-22.25,114.25,Endangered,47
+-22.25,114.25,Vulnerable,7341
+-22.25,114.75,Critically Endangered,1
+-22.25,114.75,Endangered,2
+-22.25,114.75,Vulnerable,29
+-22.25,115.25,Vulnerable,1
+-22.25,116.25,Vulnerable,6
+-22.25,116.75,Vulnerable,1
+-22.25,117.25,Vulnerable,1
+-22.25,117.75,Vulnerable,3
+-22.25,118.25,Critically Endangered,1
+-22.25,118.25,Endangered,1
+-22.25,118.75,Critically Endangered,2
+-22.25,118.75,Vulnerable,2
+-22.25,119.75,Vulnerable,1
+-22.25,131.75,Endangered,1
+-22.25,131.75,Vulnerable,4
+-22.25,132.25,Vulnerable,3
+-22.25,139.75,Vulnerable,7
+-22.25,141.75,Vulnerable,13
+-22.25,142.25,Vulnerable,11
+-22.25,142.75,Vulnerable,6
+-22.25,143.25,Endangered,2
+-22.25,143.25,Vulnerable,30
+-22.25,143.75,Endangered,1
+-22.25,145.25,Vulnerable,1
+-22.25,146.25,Vulnerable,6
+-22.25,146.75,Critically Endangered,2
+-22.25,146.75,Vulnerable,2
+-22.25,148.25,Endangered,5
+-22.25,148.25,Vulnerable,4
+-22.25,148.75,Vulnerable,1
+-22.25,149.25,Critically Endangered,1
+-22.25,149.25,Vulnerable,12
+-22.25,149.75,Critically Endangered,76
+-22.25,149.75,Endangered,26
+-22.25,149.75,Vulnerable,84
+-22.25,150.25,Critically Endangered,16
+-22.25,150.25,Endangered,12
+-22.25,150.25,Vulnerable,68
+-22.25,150.75,Endangered,6
+-22.25,150.75,Vulnerable,3
+-21.75,113.25,Vulnerable,20
+-21.75,113.75,Critically Endangered,10
+-21.75,113.75,Endangered,6033
+-21.75,113.75,Vulnerable,15099
+-21.75,114.25,Critically Endangered,3
+-21.75,114.25,Endangered,778
+-21.75,114.25,Vulnerable,9208
+-21.75,114.75,Critically Endangered,6
+-21.75,114.75,Endangered,6
+-21.75,114.75,Vulnerable,85
+-21.75,115.25,Critically Endangered,1
+-21.75,115.25,Endangered,6
+-21.75,115.25,Vulnerable,29
+-21.75,115.75,Vulnerable,3
+-21.75,117.25,Vulnerable,5
+-21.75,118.75,Vulnerable,2
+-21.75,119.75,Endangered,4
+-21.75,120.25,Vulnerable,5
+-21.75,122.25,Critically Endangered,1
+-21.75,122.25,Endangered,3
+-21.75,122.25,Vulnerable,6
+-21.75,123.25,Vulnerable,1
+-21.75,131.25,Critically Endangered,1
+-21.75,133.75,Vulnerable,1
+-21.75,134.25,Vulnerable,2
+-21.75,139.25,Vulnerable,5
+-21.75,139.75,Vulnerable,1
+-21.75,142.25,Vulnerable,1
+-21.75,142.75,Vulnerable,9
+-21.75,144.75,Vulnerable,1
+-21.75,145.25,Vulnerable,1
+-21.75,145.75,Vulnerable,1
+-21.75,146.25,Vulnerable,6
+-21.75,146.75,Vulnerable,5
+-21.75,147.75,Endangered,2
+-21.75,147.75,Vulnerable,1
+-21.75,148.25,Endangered,6
+-21.75,148.25,Vulnerable,5
+-21.75,148.75,Endangered,2
+-21.75,148.75,Vulnerable,10
+-21.75,149.25,Critically Endangered,51
+-21.75,149.25,Endangered,3
+-21.75,149.25,Vulnerable,36
+-21.75,149.75,Critically Endangered,1
+-21.75,149.75,Vulnerable,18
+-21.75,151.25,Vulnerable,2
+-21.75,152.25,Endangered,2
+-21.75,152.25,Vulnerable,11
+-21.75,152.75,Vulnerable,2
+-21.25,113.25,Vulnerable,21
+-21.25,113.75,Vulnerable,3
+-21.25,114.25,Vulnerable,97
+-21.25,114.75,Vulnerable,74
+-21.25,115.25,Endangered,1
+-21.25,115.25,Vulnerable,111
+-21.25,115.75,Critically Endangered,1
+-21.25,115.75,Endangered,7
+-21.25,115.75,Vulnerable,29
+-21.25,116.25,Endangered,11
+-21.25,117.25,Endangered,2
+-21.25,117.25,Vulnerable,7
+-21.25,118.75,Vulnerable,2
+-21.25,119.25,Endangered,4
+-21.25,119.75,Endangered,1
+-21.25,119.75,Vulnerable,5
+-21.25,120.25,Vulnerable,11
+-21.25,121.25,Endangered,1
+-21.25,130.25,Vulnerable,1
+-21.25,130.75,Vulnerable,1
+-21.25,133.75,Vulnerable,4
+-21.25,134.25,Vulnerable,1
+-21.25,139.25,Vulnerable,3
+-21.25,140.75,Critically Endangered,1
+-21.25,142.25,Vulnerable,2
+-21.25,142.75,Vulnerable,1
+-21.25,143.75,Vulnerable,1
+-21.25,144.25,Vulnerable,1
+-21.25,144.75,Vulnerable,2
+-21.25,147.75,Endangered,1
+-21.25,148.25,Endangered,7
+-21.25,148.25,Vulnerable,45
+-21.25,148.75,Endangered,45
+-21.25,148.75,Vulnerable,73
+-21.25,149.25,Critically Endangered,421
+-21.25,149.25,Endangered,54
+-21.25,149.25,Vulnerable,329
+-21.25,151.75,Vulnerable,1
+-21.25,152.25,Vulnerable,2
+-20.75,113.75,Vulnerable,64
+-20.75,114.25,Vulnerable,16
+-20.75,114.75,Vulnerable,62
+-20.75,115.25,Critically Endangered,11
+-20.75,115.25,Endangered,30
+-20.75,115.25,Vulnerable,2893
+-20.75,115.75,Critically Endangered,2
+-20.75,115.75,Endangered,6
+-20.75,115.75,Vulnerable,412
+-20.75,116.25,Critically Endangered,4
+-20.75,116.25,Endangered,18
+-20.75,116.25,Vulnerable,61
+-20.75,116.75,Critically Endangered,59
+-20.75,116.75,Endangered,105
+-20.75,116.75,Vulnerable,406
+-20.75,117.25,Critically Endangered,11
+-20.75,117.25,Endangered,14
+-20.75,117.25,Vulnerable,137
+-20.75,117.75,Endangered,2
+-20.75,117.75,Vulnerable,1
+-20.75,118.25,Vulnerable,1
+-20.75,119.25,Vulnerable,2
+-20.75,120.25,Vulnerable,1
+-20.75,120.75,Endangered,1
+-20.75,123.25,Vulnerable,1
+-20.75,129.25,Vulnerable,19
+-20.75,129.75,Critically Endangered,1
+-20.75,129.75,Vulnerable,220
+-20.75,130.25,Vulnerable,21
+-20.75,130.75,Vulnerable,5
+-20.75,131.25,Vulnerable,5
+-20.75,139.25,Vulnerable,2
+-20.75,139.75,Critically Endangered,5
+-20.75,139.75,Endangered,21
+-20.75,139.75,Vulnerable,133
+-20.75,140.25,Endangered,7
+-20.75,140.25,Vulnerable,10
+-20.75,140.75,Critically Endangered,1
+-20.75,140.75,Vulnerable,3
+-20.75,141.75,Endangered,2
+-20.75,141.75,Vulnerable,4
+-20.75,143.25,Vulnerable,5
+-20.75,144.25,Vulnerable,10
+-20.75,144.75,Vulnerable,1
+-20.75,145.25,Vulnerable,7
+-20.75,145.75,Vulnerable,1
+-20.75,147.25,Vulnerable,1
+-20.75,147.75,Vulnerable,5
+-20.75,148.25,Endangered,5
+-20.75,148.25,Vulnerable,2
+-20.75,148.75,Critically Endangered,47
+-20.75,148.75,Endangered,5
+-20.75,148.75,Vulnerable,16
+-20.75,149.25,Critically Endangered,15
+-20.75,149.25,Vulnerable,9
+-20.75,149.75,Vulnerable,3
+-20.75,150.25,Vulnerable,2
+-20.75,150.75,Endangered,1
+-20.25,115.25,Vulnerable,1459
+-20.25,115.75,Critically Endangered,5
+-20.25,115.75,Endangered,5
+-20.25,115.75,Vulnerable,2822
+-20.25,116.25,Vulnerable,70
+-20.25,116.75,Critically Endangered,1
+-20.25,116.75,Endangered,4
+-20.25,116.75,Vulnerable,3484
+-20.25,117.25,Vulnerable,76
+-20.25,118.25,Critically Endangered,1
+-20.25,118.25,Vulnerable,1
+-20.25,118.75,Critically Endangered,100
+-20.25,118.75,Endangered,103
+-20.25,118.75,Vulnerable,529
+-20.25,119.25,Endangered,4
+-20.25,119.25,Vulnerable,2
+-20.25,119.75,Critically Endangered,12
+-20.25,119.75,Endangered,11
+-20.25,119.75,Vulnerable,20
+-20.25,120.75,Critically Endangered,1
+-20.25,121.25,Critically Endangered,1
+-20.25,127.75,Vulnerable,2
+-20.25,129.25,Vulnerable,2
+-20.25,129.75,Vulnerable,28
+-20.25,130.25,Vulnerable,130
+-20.25,130.75,Vulnerable,5
+-20.25,134.25,Vulnerable,2
+-20.25,135.25,Vulnerable,1
+-20.25,136.75,Vulnerable,4
+-20.25,137.25,Vulnerable,3
+-20.25,137.75,Vulnerable,2
+-20.25,138.25,Vulnerable,2
+-20.25,138.75,Endangered,3
+-20.25,139.25,Endangered,385
+-20.25,139.75,Endangered,4
+-20.25,140.25,Vulnerable,2
+-20.25,144.25,Endangered,4
+-20.25,144.25,Vulnerable,3
+-20.25,145.25,Vulnerable,1
+-20.25,145.75,Vulnerable,1
+-20.25,146.25,Endangered,1
+-20.25,146.25,Vulnerable,1
+-20.25,146.75,Vulnerable,6
+-20.25,147.25,Endangered,1
+-20.25,147.25,Vulnerable,4
+-20.25,147.75,Endangered,1
+-20.25,147.75,Vulnerable,13
+-20.25,148.25,Critically Endangered,43
+-20.25,148.25,Endangered,16
+-20.25,148.25,Vulnerable,71
+-20.25,148.75,Critically Endangered,21
+-20.25,148.75,Endangered,15
+-20.25,148.75,Vulnerable,90
+-20.25,149.25,Critically Endangered,3
+-20.25,149.25,Endangered,2
+-20.25,149.25,Vulnerable,23
+-19.75,115.75,Vulnerable,11
+-19.75,116.25,Vulnerable,4
+-19.75,117.25,Vulnerable,11
+-19.75,117.75,Vulnerable,1
+-19.75,119.75,Critically Endangered,9
+-19.75,119.75,Endangered,10
+-19.75,119.75,Vulnerable,110
+-19.75,120.25,Endangered,2
+-19.75,120.75,Critically Endangered,6
+-19.75,120.75,Endangered,4
+-19.75,120.75,Vulnerable,264
+-19.75,121.25,Endangered,3
+-19.75,121.25,Vulnerable,5
+-19.75,127.75,Vulnerable,2
+-19.75,129.25,Vulnerable,38
+-19.75,129.75,Critically Endangered,1
+-19.75,129.75,Vulnerable,26
+-19.75,130.25,Vulnerable,8
+-19.75,130.75,Vulnerable,3
+-19.75,134.25,Critically Endangered,5
+-19.75,134.25,Endangered,45
+-19.75,134.25,Vulnerable,132
+-19.75,135.75,Vulnerable,18
+-19.75,136.25,Vulnerable,12
+-19.75,137.25,Vulnerable,3
+-19.75,138.25,Endangered,6
+-19.75,138.25,Vulnerable,7
+-19.75,138.75,Endangered,39
+-19.75,139.25,Endangered,93
+-19.75,139.75,Endangered,5
+-19.75,144.25,Vulnerable,1
+-19.75,144.75,Vulnerable,1
+-19.75,145.75,Endangered,1
+-19.75,146.25,Endangered,9
+-19.75,146.25,Vulnerable,3
+-19.75,146.75,Endangered,7
+-19.75,146.75,Vulnerable,36
+-19.75,147.25,Critically Endangered,6
+-19.75,147.25,Endangered,14
+-19.75,147.25,Vulnerable,20
+-19.75,147.75,Critically Endangered,60
+-19.75,147.75,Endangered,44
+-19.75,147.75,Vulnerable,167
+-19.75,148.25,Critically Endangered,23
+-19.75,148.25,Endangered,9
+-19.75,148.25,Vulnerable,25
+-19.75,149.25,Vulnerable,8
+-19.25,115.75,Vulnerable,2
+-19.25,116.75,Vulnerable,10
+-19.25,117.75,Vulnerable,2
+-19.25,118.25,Vulnerable,2
+-19.25,121.25,Critically Endangered,39
+-19.25,121.25,Endangered,55
+-19.25,121.25,Vulnerable,198
+-19.25,121.75,Critically Endangered,28
+-19.25,121.75,Endangered,46
+-19.25,121.75,Vulnerable,141
+-19.25,127.25,Vulnerable,2
+-19.25,127.75,Vulnerable,1
+-19.25,129.25,Vulnerable,17
+-19.25,130.75,Vulnerable,43
+-19.25,131.25,Vulnerable,14
+-19.25,131.75,Vulnerable,11
+-19.25,132.25,Vulnerable,1
+-19.25,134.75,Vulnerable,1
+-19.25,135.25,Endangered,6
+-19.25,135.25,Vulnerable,15
+-19.25,135.75,Vulnerable,1
+-19.25,136.25,Endangered,9
+-19.25,136.25,Vulnerable,25
+-19.25,138.75,Endangered,5
+-19.25,138.75,Vulnerable,2
+-19.25,139.25,Endangered,17
+-19.25,139.75,Endangered,1
+-19.25,140.25,Endangered,1
+-19.25,140.25,Vulnerable,1
+-19.25,144.25,Vulnerable,13
+-19.25,144.75,Vulnerable,9
+-19.25,145.75,Endangered,1
+-19.25,145.75,Vulnerable,1
+-19.25,146.25,Critically Endangered,15
+-19.25,146.25,Endangered,4
+-19.25,146.25,Vulnerable,51
+-19.25,146.75,Critically Endangered,608
+-19.25,146.75,Endangered,196
+-19.25,146.75,Vulnerable,1548
+-19.25,147.25,Critically Endangered,168
+-19.25,147.25,Endangered,71
+-19.25,147.25,Vulnerable,300
+-18.75,115.75,Vulnerable,6
+-18.75,116.75,Vulnerable,1
+-18.75,118.25,Vulnerable,3
+-18.75,118.75,Vulnerable,1
+-18.75,121.75,Vulnerable,1
+-18.75,129.25,Vulnerable,1
+-18.75,130.25,Vulnerable,1
+-18.75,130.75,Vulnerable,116
+-18.75,131.25,Vulnerable,37
+-18.75,131.75,Vulnerable,20
+-18.75,134.25,Vulnerable,1
+-18.75,135.75,Vulnerable,1
+-18.75,136.25,Vulnerable,5
+-18.75,138.25,Endangered,16
+-18.75,138.75,Critically Endangered,1
+-18.75,138.75,Endangered,13
+-18.75,138.75,Vulnerable,4
+-18.75,139.25,Endangered,1
+-18.75,143.25,Endangered,2
+-18.75,143.75,Endangered,1
+-18.75,143.75,Vulnerable,1
+-18.75,144.25,Vulnerable,4
+-18.75,145.75,Endangered,8
+-18.75,145.75,Vulnerable,25
+-18.75,146.25,Critically Endangered,90
+-18.75,146.25,Endangered,75
+-18.75,146.25,Vulnerable,502
+-18.75,146.75,Vulnerable,3
+-18.75,147.25,Vulnerable,1
+-18.25,115.75,Vulnerable,6
+-18.25,116.75,Vulnerable,5
+-18.25,118.75,Vulnerable,11
+-18.25,121.75,Critically Endangered,4
+-18.25,121.75,Endangered,1
+-18.25,121.75,Vulnerable,9
+-18.25,122.25,Critically Endangered,18
+-18.25,122.25,Endangered,18
+-18.25,122.25,Vulnerable,117
+-18.25,122.75,Vulnerable,1
+-18.25,123.25,Endangered,11
+-18.25,125.75,Endangered,4
+-18.25,125.75,Vulnerable,2
+-18.25,126.25,Vulnerable,2
+-18.25,127.75,Endangered,20
+-18.25,127.75,Vulnerable,57
+-18.25,130.75,Vulnerable,4
+-18.25,133.75,Endangered,2
+-18.25,133.75,Vulnerable,6
+-18.25,136.25,Vulnerable,7
+-18.25,138.25,Endangered,1
+-18.25,138.75,Endangered,1
+-18.25,142.25,Vulnerable,1
+-18.25,143.25,Endangered,20
+-18.25,143.25,Vulnerable,55
+-18.25,143.75,Endangered,1
+-18.25,143.75,Vulnerable,7
+-18.25,144.25,Critically Endangered,2
+-18.25,144.25,Vulnerable,6
+-18.25,144.75,Endangered,11
+-18.25,144.75,Vulnerable,2
+-18.25,145.25,Vulnerable,1
+-18.25,145.75,Endangered,16
+-18.25,145.75,Vulnerable,2
+-18.25,146.25,Critically Endangered,9
+-18.25,146.25,Endangered,10
+-18.25,146.25,Vulnerable,65
+-17.75,115.75,Vulnerable,7
+-17.75,116.25,Vulnerable,5
+-17.75,116.75,Vulnerable,4
+-17.75,118.75,Vulnerable,3
+-17.75,119.25,Vulnerable,3
+-17.75,121.75,Vulnerable,18
+-17.75,122.25,Critically Endangered,2377
+-17.75,122.25,Endangered,2915
+-17.75,122.25,Vulnerable,11350
+-17.75,122.75,Critically Endangered,82
+-17.75,122.75,Endangered,456
+-17.75,122.75,Vulnerable,481
+-17.75,123.25,Vulnerable,2
+-17.75,123.75,Critically Endangered,1
+-17.75,123.75,Endangered,2
+-17.75,123.75,Vulnerable,4
+-17.75,124.75,Critically Endangered,1
+-17.75,125.25,Endangered,10
+-17.75,125.25,Vulnerable,1
+-17.75,125.75,Endangered,1
+-17.75,126.25,Critically Endangered,3
+-17.75,126.25,Endangered,74
+-17.75,127.75,Endangered,1
+-17.75,132.75,Vulnerable,1
+-17.75,133.75,Endangered,1
+-17.75,133.75,Vulnerable,7
+-17.75,135.25,Vulnerable,4
+-17.75,135.75,Endangered,1
+-17.75,135.75,Vulnerable,1
+-17.75,136.75,Vulnerable,2
+-17.75,138.25,Endangered,1
+-17.75,138.25,Vulnerable,1
+-17.75,138.75,Vulnerable,1
+-17.75,139.25,Vulnerable,1
+-17.75,139.75,Endangered,1
+-17.75,139.75,Vulnerable,5
+-17.75,140.75,Critically Endangered,3
+-17.75,140.75,Endangered,2
+-17.75,140.75,Vulnerable,1
+-17.75,141.25,Critically Endangered,5
+-17.75,141.25,Endangered,36
+-17.75,141.25,Vulnerable,31
+-17.75,144.75,Endangered,2
+-17.75,144.75,Vulnerable,2
+-17.75,145.25,Critically Endangered,9
+-17.75,145.25,Endangered,14
+-17.75,145.25,Vulnerable,54
+-17.75,145.75,Endangered,81
+-17.75,145.75,Vulnerable,35
+-17.75,146.25,Critically Endangered,22
+-17.75,146.25,Endangered,27
+-17.75,146.25,Vulnerable,176
+-17.75,150.75,Vulnerable,1
+-17.75,151.25,Vulnerable,2
+-17.75,151.75,Vulnerable,2
+-17.25,119.25,Endangered,4
+-17.25,119.25,Vulnerable,30
+-17.25,120.75,Vulnerable,1
+-17.25,121.25,Vulnerable,6
+-17.25,121.75,Vulnerable,13
+-17.25,122.25,Critically Endangered,3
+-17.25,122.25,Endangered,3
+-17.25,122.25,Vulnerable,831
+-17.25,122.75,Vulnerable,1
+-17.25,123.25,Vulnerable,2
+-17.25,123.75,Critically Endangered,37
+-17.25,123.75,Endangered,96
+-17.25,123.75,Vulnerable,75
+-17.25,124.75,Endangered,1
+-17.25,125.25,Endangered,27
+-17.25,125.25,Vulnerable,3
+-17.25,125.75,Endangered,1
+-17.25,125.75,Vulnerable,1
+-17.25,126.25,Critically Endangered,10
+-17.25,126.25,Endangered,197
+-17.25,126.25,Vulnerable,17
+-17.25,126.75,Endangered,12
+-17.25,127.25,Endangered,2
+-17.25,127.25,Vulnerable,1
+-17.25,127.75,Endangered,5
+-17.25,128.25,Endangered,12
+-17.25,128.25,Vulnerable,1
+-17.25,128.75,Endangered,3
+-17.25,132.25,Vulnerable,23
+-17.25,132.75,Vulnerable,40
+-17.25,133.25,Endangered,5
+-17.25,133.25,Vulnerable,2
+-17.25,133.75,Critically Endangered,1
+-17.25,133.75,Vulnerable,12
+-17.25,134.25,Vulnerable,3
+-17.25,135.75,Endangered,5
+-17.25,137.25,Endangered,1
+-17.25,137.75,Endangered,4
+-17.25,138.25,Endangered,4
+-17.25,139.75,Critically Endangered,1
+-17.25,140.75,Critically Endangered,221
+-17.25,140.75,Endangered,142
+-17.25,140.75,Vulnerable,299
+-17.25,141.25,Critically Endangered,1
+-17.25,141.25,Endangered,1
+-17.25,141.25,Vulnerable,5
+-17.25,143.25,Vulnerable,1
+-17.25,144.75,Endangered,2
+-17.25,144.75,Vulnerable,8
+-17.25,145.25,Critically Endangered,13
+-17.25,145.25,Endangered,268
+-17.25,145.25,Vulnerable,524
+-17.25,145.75,Critically Endangered,24
+-17.25,145.75,Endangered,406
+-17.25,145.75,Vulnerable,921
+-17.25,146.25,Endangered,2
+-17.25,146.25,Vulnerable,16
+-17.25,149.25,Vulnerable,1
+-17.25,150.75,Critically Endangered,1
+-17.25,151.25,Vulnerable,1
+-17.25,151.75,Critically Endangered,1
+-17.25,151.75,Vulnerable,7
+-17.25,152.25,Vulnerable,2
+-17.25,153.75,Vulnerable,1
+-16.75,122.25,Critically Endangered,74
+-16.75,122.25,Endangered,48
+-16.75,122.25,Vulnerable,3221
+-16.75,122.75,Critically Endangered,11
+-16.75,122.75,Endangered,38
+-16.75,122.75,Vulnerable,42
+-16.75,123.25,Endangered,4
+-16.75,123.25,Vulnerable,6
+-16.75,123.75,Critically Endangered,5
+-16.75,123.75,Vulnerable,11
+-16.75,124.75,Endangered,17
+-16.75,125.25,Critically Endangered,23
+-16.75,125.25,Endangered,407
+-16.75,125.25,Vulnerable,218
+-16.75,125.75,Critically Endangered,2
+-16.75,125.75,Endangered,59
+-16.75,125.75,Vulnerable,6
+-16.75,126.25,Endangered,20
+-16.75,126.75,Endangered,20
+-16.75,128.25,Endangered,7
+-16.75,128.25,Vulnerable,1
+-16.75,130.25,Endangered,4
+-16.75,131.75,Endangered,12
+-16.75,131.75,Vulnerable,11
+-16.75,132.75,Endangered,1
+-16.75,133.25,Critically Endangered,3
+-16.75,134.75,Endangered,10
+-16.75,135.25,Endangered,28
+-16.75,135.25,Vulnerable,4
+-16.75,135.75,Endangered,3
+-16.75,135.75,Vulnerable,1
+-16.75,137.25,Endangered,21
+-16.75,137.25,Vulnerable,6
+-16.75,137.75,Endangered,3
+-16.75,137.75,Vulnerable,1
+-16.75,139.25,Critically Endangered,1
+-16.75,139.25,Endangered,1
+-16.75,139.25,Vulnerable,1
+-16.75,139.75,Vulnerable,1
+-16.75,141.25,Vulnerable,1
+-16.75,144.25,Vulnerable,3
+-16.75,144.75,Endangered,2
+-16.75,144.75,Vulnerable,1
+-16.75,145.25,Critically Endangered,23
+-16.75,145.25,Endangered,104
+-16.75,145.25,Vulnerable,208
+-16.75,145.75,Critically Endangered,8114
+-16.75,145.75,Endangered,3175
+-16.75,145.75,Vulnerable,15941
+-16.75,146.25,Critically Endangered,1
+-16.75,146.25,Endangered,1
+-16.75,146.25,Vulnerable,59
+-16.75,149.25,Endangered,1
+-16.75,149.25,Vulnerable,24
+-16.75,150.25,Vulnerable,1
+-16.25,122.25,Vulnerable,7
+-16.25,122.75,Critically Endangered,1
+-16.25,122.75,Endangered,1
+-16.25,122.75,Vulnerable,1
+-16.25,123.25,Critically Endangered,38
+-16.25,123.25,Endangered,131
+-16.25,123.25,Vulnerable,146
+-16.25,123.75,Endangered,4
+-16.25,123.75,Vulnerable,8
+-16.25,124.25,Endangered,1
+-16.25,124.25,Vulnerable,10
+-16.25,125.25,Critically Endangered,43
+-16.25,125.25,Endangered,1212
+-16.25,125.25,Vulnerable,152
+-16.25,125.75,Critically Endangered,1
+-16.25,125.75,Endangered,64
+-16.25,126.25,Endangered,10
+-16.25,126.25,Vulnerable,1
+-16.25,126.75,Endangered,2
+-16.25,128.25,Endangered,15
+-16.25,128.75,Critically Endangered,15
+-16.25,128.75,Endangered,59
+-16.25,128.75,Vulnerable,36
+-16.25,129.25,Endangered,3
+-16.25,130.25,Endangered,9
+-16.25,130.25,Vulnerable,1
+-16.25,130.75,Endangered,7
+-16.25,131.25,Endangered,1
+-16.25,131.75,Endangered,6
+-16.25,133.25,Critically Endangered,3
+-16.25,133.25,Endangered,15
+-16.25,133.25,Vulnerable,2
+-16.25,133.75,Critically Endangered,2
+-16.25,133.75,Vulnerable,1
+-16.25,134.25,Endangered,1
+-16.25,134.75,Endangered,4
+-16.25,135.25,Critically Endangered,1
+-16.25,135.25,Endangered,1
+-16.25,135.75,Endangered,2
+-16.25,136.25,Critically Endangered,2
+-16.25,136.25,Endangered,22
+-16.25,136.25,Vulnerable,4
+-16.25,137.25,Critically Endangered,1
+-16.25,137.25,Endangered,2
+-16.25,137.25,Vulnerable,3
+-16.25,137.75,Endangered,3
+-16.25,137.75,Vulnerable,5
+-16.25,139.75,Vulnerable,1
+-16.25,144.25,Endangered,1
+-16.25,144.25,Vulnerable,1
+-16.25,144.75,Vulnerable,2
+-16.25,145.25,Critically Endangered,117
+-16.25,145.25,Endangered,397
+-16.25,145.25,Vulnerable,595
+-16.25,145.75,Critically Endangered,1
+-16.25,145.75,Endangered,4
+-16.25,145.75,Vulnerable,125
+-16.25,146.25,Vulnerable,1
+-16.25,149.75,Vulnerable,3
+-15.75,120.75,Endangered,4
+-15.75,123.25,Critically Endangered,14
+-15.75,123.25,Endangered,19
+-15.75,123.25,Vulnerable,77
+-15.75,124.25,Critically Endangered,3
+-15.75,124.25,Vulnerable,44
+-15.75,124.75,Endangered,4
+-15.75,124.75,Vulnerable,1
+-15.75,125.25,Vulnerable,4
+-15.75,126.25,Endangered,20
+-15.75,126.25,Vulnerable,16
+-15.75,127.25,Endangered,2
+-15.75,127.25,Vulnerable,1
+-15.75,127.75,Endangered,22
+-15.75,127.75,Vulnerable,2
+-15.75,128.25,Critically Endangered,7
+-15.75,128.25,Endangered,271
+-15.75,128.25,Vulnerable,20
+-15.75,128.75,Endangered,64
+-15.75,128.75,Vulnerable,13
+-15.75,129.25,Endangered,25
+-15.75,129.75,Critically Endangered,4
+-15.75,129.75,Endangered,59
+-15.75,129.75,Vulnerable,1
+-15.75,130.25,Critically Endangered,1
+-15.75,130.25,Endangered,175
+-15.75,130.25,Vulnerable,2
+-15.75,130.75,Critically Endangered,1
+-15.75,130.75,Endangered,129
+-15.75,130.75,Vulnerable,3
+-15.75,131.25,Critically Endangered,1
+-15.75,131.25,Endangered,13
+-15.75,131.25,Vulnerable,4
+-15.75,131.75,Critically Endangered,1
+-15.75,131.75,Endangered,10
+-15.75,131.75,Vulnerable,11
+-15.75,132.25,Critically Endangered,2
+-15.75,132.25,Endangered,3
+-15.75,132.75,Critically Endangered,2
+-15.75,132.75,Endangered,8
+-15.75,132.75,Vulnerable,7
+-15.75,133.25,Critically Endangered,3
+-15.75,133.25,Endangered,74
+-15.75,133.75,Endangered,6
+-15.75,135.25,Endangered,4
+-15.75,135.25,Vulnerable,1
+-15.75,135.75,Endangered,5
+-15.75,136.25,Critically Endangered,8
+-15.75,136.25,Endangered,8
+-15.75,136.25,Vulnerable,7
+-15.75,136.75,Critically Endangered,32
+-15.75,136.75,Endangered,26
+-15.75,136.75,Vulnerable,63
+-15.75,141.25,Critically Endangered,1
+-15.75,141.25,Endangered,1
+-15.75,141.25,Vulnerable,3
+-15.75,144.25,Endangered,3
+-15.75,144.25,Vulnerable,1
+-15.75,144.75,Endangered,1
+-15.75,144.75,Vulnerable,24
+-15.75,145.25,Critically Endangered,4
+-15.75,145.25,Endangered,20
+-15.75,145.25,Vulnerable,103
+-15.75,145.75,Vulnerable,13
+-15.25,123.25,Vulnerable,16
+-15.25,124.25,Vulnerable,1
+-15.25,124.75,Endangered,1
+-15.25,124.75,Vulnerable,1
+-15.25,125.25,Critically Endangered,1
+-15.25,125.25,Endangered,2
+-15.25,125.25,Vulnerable,8
+-15.25,125.75,Vulnerable,1
+-15.25,126.25,Endangered,2
+-15.25,128.25,Critically Endangered,12
+-15.25,128.25,Endangered,110
+-15.25,128.25,Vulnerable,12
+-15.25,128.75,Endangered,30
+-15.25,128.75,Vulnerable,6
+-15.25,129.25,Endangered,1
+-15.25,129.75,Endangered,44
+-15.25,129.75,Vulnerable,4
+-15.25,130.25,Endangered,2
+-15.25,130.25,Vulnerable,1
+-15.25,130.75,Endangered,5
+-15.25,130.75,Vulnerable,1
+-15.25,131.25,Endangered,4
+-15.25,131.75,Critically Endangered,1
+-15.25,131.75,Endangered,28
+-15.25,131.75,Vulnerable,19
+-15.25,132.25,Critically Endangered,1
+-15.25,132.25,Vulnerable,2
+-15.25,132.75,Critically Endangered,1
+-15.25,132.75,Endangered,6
+-15.25,132.75,Vulnerable,4
+-15.25,133.25,Endangered,11
+-15.25,133.25,Vulnerable,3
+-15.25,133.75,Critically Endangered,1
+-15.25,133.75,Endangered,5
+-15.25,134.25,Endangered,2
+-15.25,134.25,Vulnerable,1
+-15.25,135.25,Endangered,1
+-15.25,135.75,Vulnerable,1
+-15.25,141.75,Endangered,1
+-15.25,143.25,Endangered,4
+-15.25,143.75,Endangered,2
+-15.25,143.75,Vulnerable,5
+-15.25,144.25,Endangered,14
+-15.25,144.25,Vulnerable,5
+-15.25,144.75,Endangered,2
+-15.25,144.75,Vulnerable,17
+-15.25,145.25,Critically Endangered,85
+-15.25,145.25,Endangered,40
+-15.25,145.25,Vulnerable,167
+-14.75,121.25,Endangered,10
+-14.75,124.25,Vulnerable,1
+-14.75,124.75,Vulnerable,1
+-14.75,125.25,Endangered,10
+-14.75,125.25,Vulnerable,5
+-14.75,125.75,Critically Endangered,17
+-14.75,125.75,Endangered,34
+-14.75,125.75,Vulnerable,32
+-14.75,126.25,Endangered,2
+-14.75,126.75,Endangered,1
+-14.75,127.25,Endangered,1
+-14.75,130.25,Endangered,1
+-14.75,131.75,Endangered,79
+-14.75,131.75,Vulnerable,45
+-14.75,132.25,Critically Endangered,19
+-14.75,132.25,Endangered,186
+-14.75,132.25,Vulnerable,696
+-14.75,132.75,Critically Endangered,1
+-14.75,132.75,Endangered,140
+-14.75,132.75,Vulnerable,492
+-14.75,133.25,Endangered,24
+-14.75,133.25,Vulnerable,120
+-14.75,133.75,Endangered,1
+-14.75,134.25,Endangered,2
+-14.75,134.75,Critically Endangered,1
+-14.75,134.75,Endangered,18
+-14.75,134.75,Vulnerable,11
+-14.75,135.25,Critically Endangered,6
+-14.75,135.25,Endangered,1
+-14.75,135.75,Critically Endangered,1
+-14.75,135.75,Vulnerable,3
+-14.75,141.75,Critically Endangered,2
+-14.75,141.75,Endangered,2
+-14.75,141.75,Vulnerable,6
+-14.75,143.25,Endangered,3
+-14.75,143.25,Vulnerable,4
+-14.75,143.75,Endangered,809
+-14.75,143.75,Vulnerable,34
+-14.75,144.25,Endangered,8
+-14.75,144.25,Vulnerable,15
+-14.75,144.75,Endangered,1
+-14.75,145.25,Critically Endangered,1
+-14.75,145.25,Endangered,4
+-14.75,145.25,Vulnerable,30
+-14.75,145.75,Endangered,1
+-14.25,121.25,Endangered,8
+-14.25,123.25,Vulnerable,1
+-14.25,123.75,Critically Endangered,7
+-14.25,123.75,Endangered,6
+-14.25,123.75,Vulnerable,215
+-14.25,124.75,Vulnerable,1
+-14.25,125.25,Critically Endangered,2
+-14.25,125.25,Endangered,2
+-14.25,125.25,Vulnerable,7
+-14.25,125.75,Critically Endangered,5
+-14.25,125.75,Endangered,9
+-14.25,125.75,Vulnerable,17
+-14.25,126.25,Critically Endangered,7
+-14.25,126.25,Endangered,4
+-14.25,126.25,Vulnerable,16
+-14.25,126.75,Critically Endangered,18
+-14.25,126.75,Endangered,64
+-14.25,126.75,Vulnerable,70
+-14.25,127.25,Vulnerable,1
+-14.25,127.75,Critically Endangered,1
+-14.25,127.75,Endangered,2
+-14.25,127.75,Vulnerable,1
+-14.25,129.25,Endangered,1
+-14.25,129.75,Critically Endangered,1
+-14.25,129.75,Endangered,2
+-14.25,129.75,Vulnerable,1
+-14.25,131.25,Endangered,3
+-14.25,131.25,Vulnerable,8
+-14.25,131.75,Critically Endangered,1
+-14.25,131.75,Endangered,52
+-14.25,131.75,Vulnerable,12
+-14.25,132.25,Critically Endangered,1
+-14.25,132.25,Endangered,672
+-14.25,132.25,Vulnerable,392
+-14.25,132.75,Vulnerable,8
+-14.25,133.25,Endangered,1
+-14.25,134.25,Critically Endangered,3
+-14.25,134.25,Endangered,63
+-14.25,134.25,Vulnerable,10
+-14.25,134.75,Critically Endangered,1
+-14.25,134.75,Endangered,2
+-14.25,134.75,Vulnerable,1
+-14.25,135.25,Endangered,3
+-14.25,135.25,Vulnerable,3
+-14.25,135.75,Endangered,3
+-14.25,135.75,Vulnerable,8
+-14.25,136.25,Critically Endangered,50
+-14.25,136.25,Endangered,308
+-14.25,136.25,Vulnerable,207
+-14.25,136.75,Critically Endangered,2
+-14.25,136.75,Endangered,10
+-14.25,136.75,Vulnerable,4
+-14.25,142.25,Endangered,1
+-14.25,143.25,Endangered,2
+-14.25,143.25,Vulnerable,3
+-14.25,143.75,Critically Endangered,4
+-14.25,143.75,Endangered,7
+-14.25,143.75,Vulnerable,6
+-14.25,144.25,Vulnerable,1
+-14.25,144.75,Vulnerable,7
+-13.75,121.75,Endangered,3
+-13.75,121.75,Vulnerable,30
+-13.75,123.25,Vulnerable,1
+-13.75,123.75,Endangered,4
+-13.75,123.75,Vulnerable,1
+-13.75,125.75,Vulnerable,1
+-13.75,126.25,Critically Endangered,4
+-13.75,126.25,Endangered,6
+-13.75,126.25,Vulnerable,20
+-13.75,126.75,Critically Endangered,1
+-13.75,126.75,Vulnerable,2
+-13.75,127.25,Critically Endangered,17
+-13.75,127.25,Endangered,15
+-13.75,127.25,Vulnerable,31
+-13.75,130.75,Endangered,3
+-13.75,130.75,Vulnerable,2
+-13.75,131.25,Critically Endangered,1
+-13.75,131.25,Endangered,34
+-13.75,131.25,Vulnerable,18
+-13.75,131.75,Critically Endangered,1
+-13.75,131.75,Endangered,91
+-13.75,131.75,Vulnerable,100
+-13.75,132.25,Critically Endangered,1
+-13.75,132.25,Endangered,38
+-13.75,132.25,Vulnerable,15
+-13.75,132.75,Endangered,2
+-13.75,133.25,Vulnerable,3
+-13.75,134.25,Endangered,10
+-13.75,134.75,Endangered,1
+-13.75,135.75,Critically Endangered,2
+-13.75,135.75,Endangered,3
+-13.75,135.75,Vulnerable,9
+-13.75,136.25,Critically Endangered,22
+-13.75,136.25,Endangered,80
+-13.75,136.25,Vulnerable,45
+-13.75,136.75,Critically Endangered,9
+-13.75,136.75,Endangered,35
+-13.75,136.75,Vulnerable,16
+-13.75,143.25,Vulnerable,1
+-13.75,143.75,Critically Endangered,1
+-13.75,143.75,Vulnerable,7
+-13.25,130.25,Endangered,2
+-13.25,130.75,Critically Endangered,6
+-13.25,130.75,Endangered,283
+-13.25,130.75,Vulnerable,4
+-13.25,131.25,Endangered,37
+-13.25,131.25,Vulnerable,10
+-13.25,131.75,Endangered,6
+-13.25,131.75,Vulnerable,12
+-13.25,132.25,Critically Endangered,1
+-13.25,132.25,Endangered,22
+-13.25,132.75,Endangered,8
+-13.25,132.75,Vulnerable,16
+-13.25,133.25,Vulnerable,11
+-13.25,133.75,Vulnerable,1
+-13.25,134.25,Vulnerable,3
+-13.25,135.75,Endangered,1
+-13.25,136.25,Critically Endangered,1
+-13.25,136.25,Endangered,1
+-13.25,136.25,Vulnerable,1
+-13.25,141.75,Critically Endangered,1
+-13.25,141.75,Endangered,2
+-13.25,141.75,Vulnerable,6
+-13.25,142.25,Vulnerable,9
+-13.25,142.75,Endangered,5
+-13.25,142.75,Vulnerable,102
+-13.25,143.25,Vulnerable,1
+-13.25,143.75,Vulnerable,2
+-12.75,129.75,Vulnerable,3
+-12.75,130.25,Critically Endangered,66
+-12.75,130.25,Endangered,73
+-12.75,130.25,Vulnerable,288
+-12.75,130.75,Critically Endangered,257
+-12.75,130.75,Endangered,6707
+-12.75,130.75,Vulnerable,2918
+-12.75,131.25,Critically Endangered,422
+-12.75,131.25,Endangered,6222
+-12.75,131.25,Vulnerable,516
+-12.75,131.75,Critically Endangered,3
+-12.75,131.75,Endangered,44
+-12.75,131.75,Vulnerable,11
+-12.75,132.25,Critically Endangered,3
+-12.75,132.25,Endangered,68
+-12.75,132.25,Vulnerable,31
+-12.75,132.75,Critically Endangered,10
+-12.75,132.75,Endangered,88
+-12.75,132.75,Vulnerable,6740
+-12.75,133.25,Endangered,7
+-12.75,133.25,Vulnerable,33
+-12.75,133.75,Endangered,12
+-12.75,133.75,Vulnerable,42
+-12.75,134.25,Vulnerable,12
+-12.75,135.75,Endangered,6
+-12.75,135.75,Vulnerable,6
+-12.75,136.25,Endangered,1
+-12.75,136.75,Endangered,2
+-12.75,141.75,Critically Endangered,69
+-12.75,141.75,Endangered,160
+-12.75,141.75,Vulnerable,215
+-12.75,142.25,Endangered,4
+-12.75,142.25,Vulnerable,5
+-12.75,142.75,Endangered,2
+-12.75,142.75,Vulnerable,5
+-12.75,143.25,Critically Endangered,35
+-12.75,143.25,Endangered,72
+-12.75,143.25,Vulnerable,1074
+-12.75,143.75,Vulnerable,2
+-12.25,122.75,Endangered,2
+-12.25,122.75,Vulnerable,7
+-12.25,123.25,Vulnerable,1
+-12.25,129.25,Vulnerable,2
+-12.25,130.75,Critically Endangered,3070
+-12.25,130.75,Endangered,4230
+-12.25,130.75,Vulnerable,14513
+-12.25,131.25,Critically Endangered,10
+-12.25,131.25,Endangered,2539
+-12.25,131.25,Vulnerable,157
+-12.25,131.75,Critically Endangered,1
+-12.25,131.75,Endangered,14
+-12.25,131.75,Vulnerable,5
+-12.25,132.25,Critically Endangered,7
+-12.25,132.25,Endangered,1
+-12.25,132.75,Critically Endangered,3
+-12.25,132.75,Endangered,37
+-12.25,132.75,Vulnerable,8
+-12.25,133.25,Critically Endangered,1
+-12.25,133.25,Endangered,4
+-12.25,133.25,Vulnerable,2
+-12.25,133.75,Vulnerable,2
+-12.25,134.25,Critically Endangered,5
+-12.25,134.25,Endangered,3
+-12.25,134.25,Vulnerable,4
+-12.25,134.75,Critically Endangered,11
+-12.25,134.75,Endangered,8
+-12.25,134.75,Vulnerable,24
+-12.25,135.25,Endangered,3
+-12.25,135.25,Vulnerable,1
+-12.25,135.75,Critically Endangered,22
+-12.25,135.75,Endangered,23
+-12.25,135.75,Vulnerable,105
+-12.25,136.25,Critically Endangered,1
+-12.25,136.25,Endangered,2
+-12.25,136.25,Vulnerable,2
+-12.25,136.75,Critically Endangered,29
+-12.25,136.75,Endangered,31
+-12.25,136.75,Vulnerable,64
+-12.25,141.75,Critically Endangered,433
+-12.25,141.75,Endangered,6
+-12.25,141.75,Vulnerable,25
+-12.25,142.25,Critically Endangered,99
+-12.25,142.25,Vulnerable,3
+-12.25,142.75,Endangered,3
+-12.25,143.25,Vulnerable,13
+-11.75,129.75,Vulnerable,7
+-11.75,130.25,Endangered,3
+-11.75,130.25,Vulnerable,60
+-11.75,130.75,Critically Endangered,14
+-11.75,130.75,Endangered,1033
+-11.75,130.75,Vulnerable,151
+-11.75,131.25,Vulnerable,25
+-11.75,132.25,Critically Endangered,3
+-11.75,132.25,Endangered,2
+-11.75,132.25,Vulnerable,4
+-11.75,134.25,Critically Endangered,1
+-11.75,134.25,Vulnerable,2
+-11.75,135.75,Critically Endangered,1
+-11.75,135.75,Endangered,1
+-11.75,135.75,Vulnerable,5
+-11.75,136.25,Critically Endangered,3
+-11.75,136.25,Endangered,1
+-11.75,136.25,Vulnerable,5
+-11.75,136.75,Critically Endangered,2
+-11.75,141.75,Critically Endangered,62
+-11.75,141.75,Endangered,3
+-11.75,141.75,Vulnerable,11
+-11.75,142.25,Critically Endangered,102
+-11.75,142.25,Vulnerable,7
+-11.75,142.75,Endangered,1
+-11.75,142.75,Vulnerable,17
+-11.75,143.25,Vulnerable,1
+-11.75,143.75,Critically Endangered,1
+-11.75,144.25,Critically Endangered,8
+-11.75,144.25,Vulnerable,2
+-11.25,129.75,Vulnerable,17
+-11.25,130.25,Endangered,66
+-11.25,130.25,Vulnerable,66
+-11.25,130.75,Critically Endangered,9
+-11.25,130.75,Endangered,33
+-11.25,130.75,Vulnerable,80
+-11.25,131.25,Critically Endangered,1
+-11.25,131.25,Endangered,2
+-11.25,131.25,Vulnerable,15
+-11.25,131.75,Vulnerable,2
+-11.25,132.25,Critically Endangered,9
+-11.25,132.25,Endangered,7
+-11.25,132.25,Vulnerable,98
+-11.25,132.75,Endangered,2
+-11.25,132.75,Vulnerable,4
+-11.25,136.75,Critically Endangered,3
+-11.25,136.75,Vulnerable,3
+-11.25,142.25,Critically Endangered,2
+-11.25,142.25,Endangered,2
+-11.25,142.25,Vulnerable,3
+-11.25,142.75,Vulnerable,4
+-11.25,143.25,Critically Endangered,3
+-11.25,143.25,Endangered,3
+-11.25,143.25,Vulnerable,11
+-10.75,129.25,Vulnerable,3
+-10.75,129.75,Vulnerable,7
+-10.75,130.25,Vulnerable,14
+-10.75,132.75,Vulnerable,8
+-10.75,133.25,Vulnerable,2
+-10.75,141.75,Vulnerable,6
+-10.75,142.25,Critically Endangered,56
+-10.75,142.25,Endangered,38
+-10.75,142.25,Vulnerable,191
+-10.75,142.75,Critically Endangered,19
+-10.75,142.75,Endangered,3
+-10.75,142.75,Vulnerable,59
+-10.25,130.25,Vulnerable,6
+-10.25,142.25,Endangered,1
+-10.25,142.25,Vulnerable,4
+-10.25,142.75,Critically Endangered,8
+-10.25,142.75,Endangered,1
+-10.25,142.75,Vulnerable,8
+-10.25,143.25,Critically Endangered,1
+-10.25,143.25,Vulnerable,2
+-9.75,142.75,Vulnerable,2
+-9.75,143.25,Critically Endangered,1
+-9.75,143.25,Endangered,1
+-9.75,143.25,Vulnerable,2
+-9.75,144.25,Vulnerable,3
+-9.25,142.25,Critically Endangered,3
+-9.25,142.25,Vulnerable,24
+-9.25,142.75,Critically Endangered,1
+-9.25,142.75,Vulnerable,1

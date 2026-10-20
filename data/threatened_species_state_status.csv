@@ -1,0 +1,25 @@
+state,status,occurrence_count
+NSW,Vulnerable,221905
+NSW,Endangered,118866
+NSW,Critically Endangered,49344
+VIC,Vulnerable,96675
+VIC,Endangered,73469
+VIC,Critically Endangered,20381
+QLD,Vulnerable,69723
+QLD,Endangered,15692
+QLD,Critically Endangered,28624
+WA,Vulnerable,114045
+WA,Endangered,73291
+WA,Critically Endangered,5021
+SA,Vulnerable,49508
+SA,Endangered,50420
+SA,Critically Endangered,2503
+TAS,Vulnerable,28758
+TAS,Endangered,15465
+TAS,Critically Endangered,4108
+NT,Vulnerable,32108
+NT,Endangered,26025
+NT,Critically Endangered,9487
+ACT,Vulnerable,15623
+ACT,Endangered,14145
+ACT,Critically Endangered,899

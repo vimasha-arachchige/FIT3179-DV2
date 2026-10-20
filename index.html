@@ -1,0 +1,254 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Australia's Protected Places</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@500;600;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="css/style.css">
+
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+
+<body>
+
+  <div class="website">
+
+    <!-- HEADER -->
+    <header class="hero">
+
+      <nav class="nav">
+        <span>THE CONSERVATION ATLAS</span>
+        <a href="#sources">SOURCES ↗</a>
+      </nav>
+
+      <div class="hero-layout">
+
+        <div class="hero-text">
+          <p class="overline">AUSTRALIA / NATURE / CONSERVATION</p>
+
+          <h1>Australia's<br><em>Protected Places.</em></h1>
+
+          <p class="hero-subtitle">
+            Are we protecting nature where it matters?
+            Explore how protected areas are distributed,
+            how conservation coverage has changed,
+            and what threatened-species observations reveal.
+          </p>
+
+          <a class="hero-link" href="#chapter1">EXPLORE THE STORY ↓</a>
+        </div>
+
+        
+
+      <div class="hero-footer">
+        <span>FIT3179 · DATA VISUALISATION 2</span>
+        <span>AN INTERACTIVE STORY</span>
+      </div>
+
+    </header>
+
+
+    <!-- INTRODUCTION -->
+    <section class="intro">
+
+      <p class="overline green">THE BIG PICTURE</p>
+
+      <h2>Protection is growing.<br><em>But where does it matter?</em></h2>
+
+      <p>
+        Australia is home to diverse landscapes and threatened
+        wildlife. Protected areas are important for conservation,
+        but their coverage differs across states and territories.
+        This story examines the geography of protection,
+        threatened-species observations and changes over time.
+      </p>
+
+    </section>
+
+
+    <!-- CHAPTER 1 -->
+    <section id="chapter1" class="chapter">
+
+      <div class="chapter-heading">
+        <span class="chapter-number">01 / THE LAND</span>
+        <h2>The geography<br><em>of protection.</em></h2>
+        <p>How much land is protected across Australia?</p>
+      </div>
+
+      <div class="two-columns">
+
+        <article class="chart-card">
+          <span class="figure-label">FIGURE 01</span>
+          <h3>How protected is each state?</h3>
+          <p>Percentage of land protected across states and territories.</p>
+          <div id="state-bar-chart" class="visualisation"></div>
+        </article>
+
+        <article class="chart-card">
+          <span class="figure-label">FIGURE 02</span>
+          <h3>Where is protection concentrated?</h3>
+          <p>Explore the geographic distribution of protected land.</p>
+          <div id="state-map" class="visualisation"></div>
+        </article>
+
+      </div>
+
+      <div class="insight">
+        <span>KEY INSIGHT</span>
+        <p>
+          Protected-area coverage varies considerably between
+          jurisdictions. Percentage coverage and total protected
+          area are different measures.
+        </p>
+      </div>
+
+    </section>
+
+
+    <!-- CHAPTER 2 -->
+    <section class="chapter chapter-soft">
+
+      <div class="chapter-heading">
+        <span class="chapter-number">02 / THE WILDLIFE</span>
+        <h2>Life under<br><em>pressure.</em></h2>
+        <p>Where are threatened-species observations recorded?</p>
+      </div>
+
+      <div class="two-columns">
+
+        <article class="chart-card">
+          <span class="figure-label">FIGURE 03</span>
+          <h3>Where are threatened species recorded?</h3>
+          <p>Occurrence records across Australian geographic cells.</p>
+          <div id="threatened-species-map" class="visualisation"></div>
+        </article>
+
+        <article class="chart-card">
+          <span class="figure-label">FIGURE 04</span>
+          <h3>How does conservation status vary?</h3>
+          <p>Occurrence records by state and threat-status category.</p>
+          <div id="threat-status-heatmap" class="visualisation"></div>
+        </article>
+
+      </div>
+
+      <div class="insight">
+        <span>INTERPRETING THE DATA</span>
+        <p>
+          Observation records are affected by survey effort
+          and reporting patterns. Higher record counts do not
+          necessarily mean higher species abundance or
+          greater conservation need.
+        </p>
+      </div>
+
+    </section>
+
+
+    <!-- CHAPTER 3 -->
+    <section class="chapter">
+
+      <div class="chapter-heading">
+        <span class="chapter-number">03 / THE FUTURE</span>
+        <h2>Progress and<br><em>perspective.</em></h2>
+        <p>How has protection changed, and how does it compare with biodiversity records?</p>
+      </div>
+
+      <div class="two-columns">
+
+        <article class="chart-card">
+          <span class="figure-label">FIGURE 05</span>
+          <h3>Is Australia's protected land growing?</h3>
+          <p>Protected-area coverage across selected years.</p>
+          <div id="protected-growth-chart" class="visualisation"></div>
+        </article>
+
+        <article class="chart-card">
+          <span class="figure-label">FIGURE 06</span>
+          <h3>Protection meets biodiversity</h3>
+          <p>
+            Larger circles represent more ALA observations;
+            darker green represents higher protected-land coverage.
+          </p>
+          <div id="bivariate-map" class="visualisation"></div>
+          <p class="small-note">
+            Circles are approximately geographically arranged.
+            This is a Dorling-style cartogram prototype.
+          </p>
+        </article>
+
+      </div>
+
+    </section>
+
+
+    <!-- CONCLUSION -->
+    <section class="conclusion">
+
+      <p class="overline">THE TAKEAWAY</p>
+
+      <h2>Protecting more land<br><em>is only the beginning.</em></h2>
+
+      <p>
+        Australia's protected-area network has expanded,
+        but its distribution differs across jurisdictions.
+        Threatened-species observations offer an additional
+        perspective, while highlighting the need for careful
+        interpretation of biodiversity data.
+      </p>
+
+    </section>
+
+
+    <!-- DATA SOURCES -->
+    <section id="sources" class="sources">
+
+      <p class="overline green">BEHIND THE VISUALISATION</p>
+
+      <h2>Data & Methodology</h2>
+
+      <div class="source-columns">
+
+        <div>
+          <h3>Protected areas</h3>
+          <p>
+            Collaborative Australian Protected Areas Database
+            (CAPAD), Australian Government.
+          </p>
+        </div>
+
+        <div>
+          <h3>Biodiversity records</h3>
+          <p>
+            Atlas of Living Australia (ALA),
+            threatened-species occurrence records.
+          </p>
+        </div>
+
+      </div>
+
+      
+
+    </section>
+
+
+    <footer>
+      <span>AUSTRALIA'S PROTECTED PLACES</span>
+      <span>FIT3179 · DATA VISUALISATION 2</span>
+    </footer>
+
+  </div>
+
+  <script src="js/vega_lite_vis.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,590 @@
+
+/* ===========================================
+   AUSTRALIA'S PROTECTED PLACES
+   TWO-COLUMN EDITORIAL WEBSITE
+=========================================== */
+
+:root {
+  --forest: #204832;
+  --deep: #123522;
+  --sage: #719477;
+  --cream: #f6f4ed;
+  --soft-green: #e8efe5;
+  --white: #fffefa;
+  --ink: #293a30;
+  --muted: #6c786e;
+  --border: #dce4d9;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: #e5ebe2;
+  color: var(--ink);
+  font-family: "DM Sans", sans-serif;
+  line-height: 1.65;
+}
+
+.website {
+  max-width: 1180px;
+  margin: 24px auto;
+  background: var(--cream);
+  box-shadow: 0 18px 65px rgba(19, 53, 34, 0.08);
+}
+
+h1, h2, h3, p {
+  margin-top: 0;
+}
+
+h1, h2 {
+  font-family: "Playfair Display", Georgia, serif;
+  line-height: 1.14;
+}
+
+em {
+  color: var(--sage);
+  font-weight: 500;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* HEADER */
+
+.hero {
+  background: var(--deep);
+  color: white;
+  padding: 30px 45px 25px;
+}
+
+.nav,
+.hero-footer {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  font-size: 10px;
+  letter-spacing: 1.5px;
+}
+
+.nav {
+  font-weight: 700;
+}
+
+.nav a {
+  color: #d0e1ce;
+}
+
+.hero-layout {
+  display: grid;
+  grid-template-columns: 1.25fr 0.75fr;
+  align-items: center;
+  gap: 25px;
+  min-height: 380px;
+}
+
+.hero-text {
+  padding: 55px 0;
+}
+
+.overline {
+  display: block;
+  color: #b6d1b5;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  margin-bottom: 17px;
+}
+
+.overline.green {
+  color: var(--sage);
+}
+
+.hero h1 {
+  font-size: clamp(42px, 5vw, 65px);
+  letter-spacing: -1px;
+  margin-bottom: 22px;
+}
+
+.hero h1 em {
+  color: #b9d7b7;
+}
+
+.hero-subtitle {
+  color: #d9e8d7;
+  font-size: 14px;
+  max-width: 500px;
+}
+
+.hero-link {
+  display: inline-block;
+  margin-top: 18px;
+  padding-bottom: 7px;
+  border-bottom: 1px solid #b7d0b5;
+  color: #d8e8d5;
+  font-size: 11px;
+  letter-spacing: 1.2px;
+}
+
+.hero-footer {
+  color: #b5cbb5;
+}
+
+/* DECORATIVE HERO */
+
+.hero-decoration {
+  height: 300px;
+  position: relative;
+  overflow: hidden;
+}
+
+.decor-circle {
+  position: absolute;
+  border-radius: 50%;
+  border: 1px solid rgba(255,255,255,0.2);
+}
+
+.circle-a {
+  width: 245px;
+  height: 245px;
+  background: #4d8058;
+  left: 15px;
+  top: 15px;
+}
+
+.circle-b {
+  width: 175px;
+  height: 175px;
+  background: #9dbb91;
+  right: 0;
+  top: 100px;
+  opacity: 0.9;
+}
+
+.circle-c {
+  width: 100px;
+  height: 100px;
+  background: #d1dfb8;
+  left: 0;
+  bottom: 0;
+}
+
+.hero-decoration span {
+  position: absolute;
+  right: 0;
+  bottom: 8px;
+  color: white;
+  font-size: 9px;
+  letter-spacing: 1.3px;
+}
+
+/* INTRO */
+
+.intro {
+  padding: 70px 13%;
+  text-align: center;
+}
+
+.intro h2 {
+  color: var(--forest);
+  font-size: 43px;
+}
+
+.intro p:last-child {
+  max-width: 730px;
+  margin: 20px auto 0;
+  color: var(--muted);
+  font-size: 14px;
+}
+
+/* CHAPTERS */
+
+.chapter {
+  padding: 65px 42px;
+}
+
+.chapter-soft {
+  background: var(--soft-green);
+}
+
+.chapter-heading {
+  margin-bottom: 32px;
+}
+
+.chapter-number,
+.figure-label {
+  display: block;
+  color: var(--sage);
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 1.7px;
+  margin-bottom: 12px;
+}
+
+.chapter-heading h2 {
+  color: var(--forest);
+  font-size: 41px;
+  margin-bottom: 12px;
+}
+
+.chapter-heading p {
+  color: var(--muted);
+  font-size: 14px;
+}
+
+/* TWO-COLUMN CHARTS */
+
+.two-columns {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  gap: 20px;
+  align-items: start;
+}
+
+.chart-card {
+  min-width: 0;
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 22px;
+  box-shadow: 0 5px 18px rgba(20, 60, 35, 0.04);
+}
+
+.chart-card h3 {
+  color: var(--forest);
+  font-size: 19px;
+  margin-bottom: 8px;
+}
+
+.chart-card > p {
+  font-size: 12px;
+  color: var(--muted);
+  margin-bottom: 18px;
+}
+
+.visualisation {
+  width: 100%;
+  overflow-x: auto;
+  padding: 10px 0;
+  text-align: center;
+}
+
+.visualisation .vega-embed {
+  display: inline-block;
+  text-align: left;
+}
+
+/* INSIGHTS */
+
+.insight {
+  display: grid;
+  grid-template-columns: 130px 1fr;
+  gap: 20px;
+  margin-top: 26px;
+  padding: 20px 25px;
+  background: #e0eadd;
+  border-left: 4px solid var(--sage);
+}
+
+.insight span {
+  color: var(--forest);
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+}
+
+.insight p {
+  margin: 0;
+  font-size: 13px;
+}
+
+/* CONCLUSION */
+
+.conclusion {
+  background: var(--forest);
+  color: white;
+  text-align: center;
+  padding: 75px 12%;
+}
+
+.conclusion h2 {
+  font-size: 48px;
+}
+
+.conclusion h2 em {
+  color: #b9d8b7;
+}
+
+.conclusion p:last-child {
+  max-width: 750px;
+  margin: auto;
+  font-size: 14px;
+  color: #e0ebde;
+}
+
+/* SOURCES */
+
+.sources {
+  padding: 65px 8%;
+}
+
+.sources h2 {
+  color: var(--forest);
+  font-size: 39px;
+}
+
+.source-columns {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 30px;
+  margin: 30px 0;
+}
+
+.source-columns h3 {
+  color: var(--forest);
+  font-size: 16px;
+}
+
+.source-columns p {
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.small-note {
+  font-size: 11px !important;
+  color: var(--muted);
+}
+
+/* FOOTER */
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  background: var(--deep);
+  color: #d9e8d7;
+  padding: 24px 42px;
+  font-size: 10px;
+  letter-spacing: 1px;
+}
+
+/* RESPONSIVE */
+
+@media (max-width: 800px) {
+  .website {
+    margin: 0;
+  }
+
+  .hero {
+    padding: 25px;
+  }
+
+  .hero-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .hero-decoration {
+    display: none;
+  }
+
+  .intro {
+    padding: 55px 25px;
+  }
+
+  .chapter {
+    padding: 45px 20px;
+  }
+
+  .two-columns,
+  .source-columns {
+    grid-template-columns: 1fr;
+  }
+
+  .chapter-heading h2 {
+    font-size: 35px;
+  }
+
+  .chart-card {
+    padding: 16px;
+  }
+
+  .insight {
+    grid-template-columns: 1fr;
+  }
+
+  .conclusion {
+    padding: 60px 25px;
+  }
+
+  footer {
+    padding: 20px;
+  }
+}
+
+/* =====================================
+   FIX CHARTS INSIDE TWO-COLUMN LAYOUT
+===================================== */
+
+.two-columns {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 24px;
+  align-items: stretch;
+}
+
+.chart-card {
+  min-width: 0;
+  overflow: visible;
+  padding: 22px;
+}
+
+.visualisation {
+  width: 100%;
+  min-width: 0;
+  overflow-x: auto;
+  overflow-y: hidden;
+  text-align: left;
+  padding: 12px 0 20px;
+}
+
+.visualisation .vega-embed {
+  max-width: none;
+  display: block;
+}
+
+.visualisation canvas,
+.visualisation svg {
+  max-width: none;
+}
+
+@media (max-width: 800px) {
+  .two-columns {
+    grid-template-columns: 1fr;
+  }
+}
+
+
+/* ELEGANT BOTANICAL HERO ILLUSTRATION */
+
+.hero-decoration {
+  position: relative;
+  height: 350px;
+  overflow: hidden;
+}
+
+.botanical-art {
+  position: absolute;
+  width: 260px;
+  height: 320px;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%) rotate(-12deg);
+}
+
+.stem {
+  position: absolute;
+  width: 3px;
+  height: 280px;
+  background: #b8d4ac;
+  left: 130px;
+  bottom: 10px;
+  transform: rotate(8deg);
+  border-radius: 10px;
+}
+
+.leaf {
+  position: absolute;
+  width: 95px;
+  height: 48px;
+  background: #91b58c;
+  border-radius: 100% 0 100% 0;
+  box-shadow: inset 0 0 0 1px rgba(255,255,255,0.15);
+}
+
+.leaf-1 {
+  left: 35px;
+  top: 45px;
+  transform: rotate(30deg);
+}
+
+.leaf-2 {
+  right: 20px;
+  top: 90px;
+  transform: rotate(140deg);
+  background: #b7d1a5;
+}
+
+.leaf-3 {
+  left: 25px;
+  top: 135px;
+  transform: rotate(20deg);
+  background: #6f9e75;
+}
+
+.leaf-4 {
+  right: 25px;
+  top: 180px;
+  transform: rotate(145deg);
+}
+
+.leaf-5 {
+  left: 45px;
+  top: 230px;
+  transform: rotate(25deg);
+  background: #b7d1a5;
+}
+
+.leaf-6 {
+  right: 55px;
+  top: 15px;
+  transform: rotate(130deg);
+  background: #d0e2bc;
+}
+
+/* HERO PHOTOGRAPH */
+
+.hero-decoration {
+  width: 100%;
+  height: 350px;
+  overflow: hidden;
+  border-radius: 180px 180px 12px 12px;
+  border: 1px solid rgba(255,255,255,0.2);
+}
+
+.hero-photo {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+}
+.hero-layout {
+  align-items: center;
+}
+
+.hero-decoration {
+  position: relative;
+  height: 350px;
+  overflow: hidden;
+}
+
+.hero-photo {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.hero-footer {
+  position: relative;
+  margin-top: 25px;
+  z-index: 2;
+}
